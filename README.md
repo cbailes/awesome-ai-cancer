@@ -28,6 +28,14 @@ Chen, Dan Nguyen, Steve B. Jiang, Xun Jia (2019)
 * [Lung Nodule Detection via Deep Reinforcement Learning](https://www.frontiersin.org/articles/10.3389/fonc.2018.00108/full) - Issa Ali, Gregory R. Hart, Gowthaman Gunabushanam, Ying Liang, Wazir Muhammad, Bradley Nartowt, Michael Kane, Xiaomei Ma, Jun Deng (2018)
 * [Deep reinforcement learning with its application for lung cancer detection in medical Internet of Things](https://www.sciencedirect.com/science/article/pii/S0167739X19303772) - Zhuo Liua, Chenhui Yaob, Hang Yuc, Taihua Wua (2019)
 
+#### Nasopharyngeal
+* [Deep Deconvolutional Neural Network for Target Segmentation of Nasopharyngeal Cancer in Planning Computed Tomography Images](https://www.frontiersin.org/articles/10.3389/fonc.2017.00315/full) - Kuo Men, Xinyuan Chen, Ye Zhang, Tao Zhang, Jianrong Dai, Junlin Yi, Yexiong Li (2017)
+
+#### Pancreatic
+* [DeepOrgan: Multi-level Deep Convolutional Networks for Automated Pancreas Segmentation](https://link.springer.com/chapter/10.1007/978-3-319-24553-9_68) - Holger R. Roth, Le Lu, Amal Farag, Hoo-Chang Shin, Jiamin Liu, Evrim B. Turkbey, Ronald M. Summers (2015)
+* [Deep convolutional networks for pancreas segmentation in CT imaging](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/9413/94131G/Deep-convolutional-networks-for-pancreas-segmentation-in-CT-imaging/10.1117/12.2081420.short?SSO=1) - Holger R. Roth, Amal Farag, Le Lu, Evrim B. Turkbey, Ronald M. Summers (2015)
+* [Deep Supervision for Pancreatic Cyst Segmentation in Abdominal CT Scans](https://link.springer.com/chapter/10.1007/978-3-319-66179-7_26) - Yuyin Zhou, Lingxi Xie, Elliot K. Fishman, Alan L. Yuille (2017)
+
 ### Treatment
 
 #### Personalized chemotherapy
