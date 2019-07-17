@@ -38,7 +38,9 @@ Chen, Dan Nguyen, Steve B. Jiang, Xun Jia (2019)
 * [Deep convolutional networks for pancreas segmentation in CT imaging](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/9413/94131G/Deep-convolutional-networks-for-pancreas-segmentation-in-CT-imaging/10.1117/12.2081420.short?SSO=1) - Holger R. Roth, Amal Farag, Le Lu, Evrim B. Turkbey, Ronald M. Summers (2015)
 * [Pancreas Segmentation in Abdominal CT Scan: A Coarse-to-Fine Approach](https://pdfs.semanticscholar.org/788f/341d02130e1807edf88c8c64a77e4096437e.pdf) - Yuyin Zhou, Lingxi Xie, Wei Shen, Elliot Fishman, Alan Yuille (2016)
 * [Combining Machine Learning and Nanofluidic Technology To Diagnose Pancreatic Cancer Using Exosomes](https://pubs.acs.org/doi/abs/10.1021/acsnano.7b05503) - Jina Ko, Neha Bhagwat, Stephanie S. Yee, Natalia Ortiz, Amine Sahmoud, Taylor Black, Nicole M. Aiello, Lydie McKenzie, Mark O’Hara, Colleen Redlinger, Janae Romeo, Erica L. Carpenter, Ben Z. Stanger, David Issadore (2017)
+* [Deep learning based Nucleus Classification in pancreas histological images](https://ieeexplore.ieee.org/abstract/document/8036914) - Young Hwan Chang, Guillaume Thibault, Owen Madin, Vahid Azimi, Cole Meyers, Brett Johnson (2017)
 * [Deep Supervision for Pancreatic Cyst Segmentation in Abdominal CT Scans](https://link.springer.com/chapter/10.1007/978-3-319-66179-7_26) - Yuyin Zhou, Lingxi Xie, Elliot K. Fishman, Alan L. Yuille (2017)
+* [Deep LOGISMOS: Deep learning graph-based 3D segmentation of pancreatic tumors on CT scans](https://ieeexplore.ieee.org/abstract/document/8363793/) - Zhihui Guo, Ling Zhang, Le Lu, Mohammadhadi Bagheri, Ronald M. Summers, Milan Sonka, Jianhua Yao (2018)
 
 ### Treatment
 
