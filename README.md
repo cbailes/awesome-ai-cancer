@@ -23,5 +23,6 @@ Chen, Dan Nguyen, Steve B. Jiang, Xun Jia (2019)
 
 ## Other and meta resources
 * [Google Deep Learning Tool 99% Accurate at Breast Cancer Detection](https://healthitanalytics.com/news/google-deep-learning-tool-99-accurate-at-breast-cancer-detection) - Jessica Kent (2018)
+* [Deep Learning in Oncology – Applications in Fighting Cancer](https://emerj.com/ai-sector-overviews/deep-learning-in-oncology/) - Abder-Rahman Ali (2019)
 * [Google Develops Deep Learning Tool to Enhance Lung Cancer Detection](https://healthitanalytics.com/news/google-develops-deep-learning-tool-to-enhance-lung-cancer-detection) - Jessica Kent (2019)
 * [Histopathological Cancer Detection with Deep Neural Networks](https://towardsdatascience.com/histopathological-cancer-detection-with-deep-neural-networks-3399be879671) - Antonio de Perio (2019)
