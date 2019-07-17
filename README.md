@@ -35,6 +35,7 @@ Chen, Dan Nguyen, Steve B. Jiang, Xun Jia (2019)
 #### Pancreatic
 * [DeepOrgan: Multi-level Deep Convolutional Networks for Automated Pancreas Segmentation](https://link.springer.com/chapter/10.1007/978-3-319-24553-9_68) - Holger R. Roth, Le Lu, Amal Farag, Hoo-Chang Shin, Jiamin Liu, Evrim B. Turkbey, Ronald M. Summers (2015)
 * [Deep convolutional networks for pancreas segmentation in CT imaging](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/9413/94131G/Deep-convolutional-networks-for-pancreas-segmentation-in-CT-imaging/10.1117/12.2081420.short?SSO=1) - Holger R. Roth, Amal Farag, Le Lu, Evrim B. Turkbey, Ronald M. Summers (2015)
+* [Combining Machine Learning and Nanofluidic Technology To Diagnose Pancreatic Cancer Using Exosomes](https://pubs.acs.org/doi/abs/10.1021/acsnano.7b05503) - Jina Ko, Neha Bhagwat, Stephanie S. Yee, Natalia Ortiz, Amine Sahmoud, Taylor Black, Nicole M. Aiello, Lydie McKenzie, Mark O’Hara, Colleen Redlinger, Janae Romeo, Erica L. Carpenter, Ben Z. Stanger, David Issadore (2017)
 * [Deep Supervision for Pancreatic Cyst Segmentation in Abdominal CT Scans](https://link.springer.com/chapter/10.1007/978-3-319-66179-7_26) - Yuyin Zhou, Lingxi Xie, Elliot K. Fishman, Alan L. Yuille (2017)
 
 ### Treatment
