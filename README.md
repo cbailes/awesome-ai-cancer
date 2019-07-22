@@ -48,6 +48,7 @@ Thoughts? Suggestions? contact@craigbailes.com
 * [AiAiHealthcare/ProjectAiAi](https://github.com/AiAiHealthcare/ProjectAiAi) - A project with the slated goal of building an FDA-approved, open source deep learning system for detecting lung cancer
 
 ### Datasets
+* [BACH dataset](https://iciar2018-challenge.grand-challenge.org/Dataset/) - Hematoxylin and eosin (H&E) stained breast histology microscopy and whole-slide images from the ICIAR 2018 Grand Challenge on BreAst Cancer Histology
 * [Breast Cancer Wisconsin (Diagnostic) Data Set](https://www.kaggle.com/uciml/breast-cancer-wisconsin-data) - [[Kernels](https://www.kaggle.com/uciml/breast-cancer-wisconsin-data/kernels)]
 * [Cancer Data Access System](https://biometry.nci.nih.gov/cdas/) @ National Cancer Institute
 * [Clinical, Genomic, Imaging Data & Specimens](https://cbttc.org/research/specimendata/) @ Children’s Brain Tumor Tissue Consortium
