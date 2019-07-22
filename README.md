@@ -3,9 +3,11 @@
 
 List of awesome code, papers, and resources for AI/deep learning/machine learning/neural networks applied to oncology.
 
+Thoughts? Suggestions? contact@craigbailes.com
+
 Patreon: https://www.patreon.com/craigbailes
 
-© 2019 Craig Bailes (@cbailes), MIT License
+© 2019 Craig Bailes ([@cbailes](https://github.com/cbailes)), open access and full reuse under the MIT License
 
 ## Code
 * [zizhaozhang/nmi-wsi-diagnosis](https://github.com/zizhaozhang/nmi-wsi-diagnosis) - Pathologist-level interpretable whole-slide cancer diagnosis with deep learning
