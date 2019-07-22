@@ -18,11 +18,14 @@ Thoughts? Suggestions? contact@craigbailes.com
 
 #### Breast
 * [akshaybahadur21/BreastCancer_Classification](https://github.com/akshaybahadur21/BreastCancer_Classification) - Machine learning classifier for cancer tissues
+* [bhrzali/breast_cancer_classification](https://github.com/bhrzali/breast_cancer_classification) - A simple breast tumor classifier written in iPython and R
 * [EliasVansteenkiste/dsb3](https://github.com/EliasVansteenkiste/dsb3) - A deep learning framework for lung cancer prediction built with Lasagne/Theano
 * [Jean-njoroge/Breast-cancer-risk-prediction](https://github.com/Jean-njoroge/Breast-cancer-risk-prediction) - Classification of Breast Cancer diagnosis Using Support Vector Machines
 * [kaas3000/exercise-breast-cancer](https://github.com/kaas3000/exercise-breast-cancer) - Python feed-forward neural network to predict breast cancer. Trained using stochastic gradient descent in combination with backpropagation
+* [mathewyang/Wisconsin-Breast-Cancer](https://github.com/mathewyang/Wisconsin-Breast-Cancer) - Classifying benign and malignant breast tumor cells
 * [Shilpi75/Breast-Cancer-Prediction](https://github.com/Shilpi75/Breast-Cancer-Prediction) - Breast Cancer Prediction using fuzzy clustering and classification
 * [vkasojhaa/Clinical-Decision-Support-using-Machine-Learning](https://github.com/vkasojhaa/Clinical-Decision-Support-using-Machine-Learning) - Predicting the Stage of Breast Cancer - M (Malignant) and B (Benign) using different Machine learning models and comparing their performance
+* [Wigder/inns](https://github.com/Wigder/inns) - An experiment using neural networks to predict obesity-related breast cancer over a small dataset of blood samples
 
 #### Lung
 * [ncoudray/DeepPATH](https://github.com/ncoudray/DeepPATH) - Classification of Lung cancer slide images using deep-learning
