@@ -32,6 +32,7 @@ Patreon: https://www.patreon.com/craigbailes
 * [Intelligent Inverse Treatment Planning via Deep Reinforcement Learning, a Proof-of-Principle Study in High Dose-rate Brachytherapy for Cervical Cancer](https://arxiv.org/pdf/1811.10102.pdf) - Chenyang Shen, Yesenia Gonzalez, Peter Klages, Nan Qin, Hyunuk Jung, Liyuan Chen, Dan Nguyen, Steve B. Jiang, Xun Jia (2019)
 
 #### Liver
+* [Deep learning based liver cancer detection using watershed transform and Gaussian mixture model techniques](https://www.researchgate.net/publication/329772767_Deep_learning_based_liver_cancer_detection_using_watershed_transform_and_Gaussian_mixture_model_techniques) - Sukanta Sabut, Amita Das, U Rajendra Acharya, Soumya S. Panda (2018)
 * [Deep learning for liver tumor diagnosis part I: development of a convolutional neural network classifier for multi-phasic MRI](https://www.ncbi.nlm.nih.gov/pubmed/31016442) - Charlie A. Hamm, Clinton J. Wang, Lynn Jeanette Savic, Marc Ferrante, Isabel Schobert, Todd Schlachter, MingDe Lin, James S. Duncan, Jeffrey C. Weinreb, Julius Chapiro, Brian Letzen (2019)
 * [Deep learning for liver tumor diagnosis part II: convolutional neural network interpretation using radiologic imaging features](https://www.ncbi.nlm.nih.gov/pubmed/31093705) - Clinton J. Wang, Charlie A. Hamm, Lynn Jeanette Savic, Marc Ferrante, Isabel Schobert, Todd Schlachter, MingDe Lin, Jeffrey C. Weinreb, James S. Duncan, Julius Chapiro, Brian Letzen (2019)
 
