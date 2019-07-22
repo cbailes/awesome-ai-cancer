@@ -23,6 +23,7 @@ Patreon: https://www.patreon.com/craigbailes
 
 ## Papers 
 * [Architectures and accuracy of artificial neural network for disease classification from omics data](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6399893/) - Hui Yu, David C. Samuels, Ying-yong Zhao, Yan Guo (2019)
+* [Artificial intelligence in cancer imaging: Clinical challenges and applications](https://onlinelibrary.wiley.com/doi/full/10.3322/caac.21552) - Wenya Linda Bi, Ahmed Hosny, Matthew B. Schabath, Maryellen L. Giger, Nicolai J. Birkbak, Alireza Mehrtash, Tavis Allison, Omar Arnaout, Christopher Abbosh, Ian F. Dunn, Raymond H. Mak, Rulla M. Tamimi, Clare M. Tempany, Charles Swanton, Udo Hoffmann, Lawrence H. Schwartz, Robert J. Gillies, Raymond Y. Huang, Hugo J. W. L. Aerts (2019)
 
 ### Detection and diagnosis
 * [Deep learning for tumor classification in imaging mass spectrometry](https://academic.oup.com/bioinformatics/article/34/7/1215/4604594) - Jens Behrmann, Christian Etmann, Tobias Boskamp, Rita Casadonte, Jörg Kriegsmann,  Peter Maaβ (2018)
