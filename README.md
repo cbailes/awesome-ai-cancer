@@ -12,12 +12,21 @@ Thoughts? Suggestions? contact@craigbailes.com
 
 ### Repositories
 * [zizhaozhang/nmi-wsi-diagnosis](https://github.com/zizhaozhang/nmi-wsi-diagnosis) - Pathologist-level interpretable whole-slide cancer diagnosis with deep learning
-* [Classification of Lung cancer slide images using deep-learning](https://github.com/ncoudray/DeepPATH) - Classification of Lung cancer slide images using deep-learning
 * [mark-watson/cancer-deep-learning-model](https://github.com/mark-watson/cancer-deep-learning-model) - Keras deep Learning neural network model for University of Wisconsin Cancer data that uses the Integrated Variants library to explain predictions made by a trained model with 97% accuracy
 * [prasadseemakurthi/Deep-Neural-Networks-HealthCare](https://github.com/prasadseemakurthi/Deep-Neural-Networks-HealthCare/tree/master/Project%202%20--%20SurvNet%20--%20%20Cancer%20Clinical%20Outcomes%20Predictor) - Practical deep learning repository for predicting cancer clinical outcomes
-* [EliasVansteenkiste/dsb3](https://github.com/EliasVansteenkiste/dsb3) - A deep learning framework for lung cancer prediction built with Lasagne/Theano
-* [AiAiHealthcare/ProjectAiAi](https://github.com/AiAiHealthcare/ProjectAiAi) - A project with the slated goal of building an FDA-approved, open source deep learning system for detecting lung cancer
 * [AFAgarap/wisconsin-breast-cancer](https://github.com/AFAgarap/wisconsin-breast-cancer) - Codebase for *On Breast Cancer Detection: An Application of Machine Learning Algorithms on the Wisconsin Diagnostic Dataset [ICMLSC 2018 / arxiv 1711.07831]*
+
+#### Breast
+* [akshaybahadur21/BreastCancer_Classification](https://github.com/akshaybahadur21/BreastCancer_Classification) - Machine learning classifier for cancer tissues
+* [EliasVansteenkiste/dsb3](https://github.com/EliasVansteenkiste/dsb3) - A deep learning framework for lung cancer prediction built with Lasagne/Theano
+* [Jean-njoroge/Breast-cancer-risk-prediction](https://github.com/Jean-njoroge/Breast-cancer-risk-prediction) - Classification of Breast Cancer diagnosis Using Support Vector Machines
+* [kaas3000/exercise-breast-cancer](https://github.com/kaas3000/exercise-breast-cancer) - Python feed-forward neural network to predict breast cancer. Trained using stochastic gradient descent in combination with backpropagation
+* [Shilpi75/Breast-Cancer-Prediction](https://github.com/Shilpi75/Breast-Cancer-Prediction) - Breast Cancer Prediction using fuzzy clustering and classification
+* [vkasojhaa/Clinical-Decision-Support-using-Machine-Learning](https://github.com/vkasojhaa/Clinical-Decision-Support-using-Machine-Learning) - Predicting the Stage of Breast Cancer - M (Malignant) and B (Benign) using different Machine learning models and comparing their performance
+
+#### Lung
+* [ncoudray/DeepPATH](https://github.com/ncoudray/DeepPATH) - Classification of Lung cancer slide images using deep-learning
+* [AiAiHealthcare/ProjectAiAi](https://github.com/AiAiHealthcare/ProjectAiAi) - A project with the slated goal of building an FDA-approved, open source deep learning system for detecting lung cancer
 
 ### Datasets
 * [Breast Cancer Wisconsin (Diagnostic) Data Set](http://archive.ics.uci.edu/ml/datasets/breast+cancer+wisconsin+(diagnostic)) @ UC Irvine
