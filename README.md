@@ -41,6 +41,7 @@ Thoughts? Suggestions? contact@craigbailes.com
 * [Breast Cancer Wisconsin (Diagnostic) Data Set](https://www.kaggle.com/uciml/breast-cancer-wisconsin-data) @ Kaggle via [UC Irvine](http://archive.ics.uci.edu/ml/datasets/breast+cancer+wisconsin+(diagnostic))
 * [Cancer Data Access System](https://biometry.nci.nih.gov/cdas/) @ National Cancer Institute
 * [Clinical, Genomic, Imaging Data & Specimens](https://cbttc.org/research/specimendata/) @ Children’s Brain Tumor Tissue Consortium
+* [MIAS Mammography](https://www.kaggle.com/kmader/mias-mammography)
 * [MOBCdb a comprehensive database integrating multi-omics data of breast cancer](http://bigd.big.ac.cn/MOBCdb/) 
 * [PCMdb: Pancreatic Cancer Methylation Database](http://crdd.osdd.net/raghava/pcmdb/)
 
@@ -54,6 +55,7 @@ Thoughts? Suggestions? contact@craigbailes.com
 
 #### Breast
 * [A new features extraction method based on polynomial regression for the assessment of breast lesion Contours](https://www.researchgate.net/publication/282954526_A_new_features_extraction_method_based_on_polynomial_regression_for_the_assessment_of_breast_lesion_Contours) - Spandana Paramkusham, Shivakshit Patri, K.M.M. Rao, B.V.V.S.N.P. Rao (2015)
+* [Diagnostic Assessment of Deep Learning Algorithms for Detection of Lymph Node Metastases in Women With Breast Cancer](https://jamanetwork.com/journals/jama/article-abstract/2665774) - Babak Ehteshami Bejnordi, Mitko Veta, Paul Johannes van Diest (2017)
 * [Machine Learning with Applications in Breast Cancer Diagnosis and Prognosis](https://www.researchgate.net/publication/325064884_Machine_Learning_with_Applications_in_Breast_Cancer_Diagnosis_and_Prognosis) - Wenbin Yue, Zidong Wang, Hongwei Chen, Annette Margaret Payne, Xiaohui Liu (2018)
 
 #### Cervical
