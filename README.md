@@ -5,11 +5,12 @@ List of awesome code, papers, and resources for AI/deep learning/machine learnin
 
 Thoughts? Suggestions? contact@craigbailes.com
 
-Patreon: https://www.patreon.com/craigbailes
-
 © 2019 Craig Bailes ([@cbailes](https://github.com/cbailes)), open access and full reuse under the MIT License
 
 ## Code
+* [Cancer](https://paperswithcode.com/task/cancer) @ Papers With Code
+
+### Repositories
 * [zizhaozhang/nmi-wsi-diagnosis](https://github.com/zizhaozhang/nmi-wsi-diagnosis) - Pathologist-level interpretable whole-slide cancer diagnosis with deep learning
 * [Classification of Lung cancer slide images using deep-learning](https://github.com/ncoudray/DeepPATH) - Classification of Lung cancer slide images using deep-learning
 * [mark-watson/cancer-deep-learning-model](https://github.com/mark-watson/cancer-deep-learning-model) - Keras deep Learning neural network model for University of Wisconsin Cancer data that uses the Integrated Variants library to explain predictions made by a trained model with 97% accuracy
