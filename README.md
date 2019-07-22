@@ -42,8 +42,10 @@ Chen, Dan Nguyen, Steve B. Jiang, Xun Jia (2019)
 * [Deep Supervision for Pancreatic Cyst Segmentation in Abdominal CT Scans](https://link.springer.com/chapter/10.1007/978-3-319-66179-7_26) - Yuyin Zhou, Lingxi Xie, Elliot K. Fishman, Alan L. Yuille (2017)
 * [Deep LOGISMOS: Deep learning graph-based 3D segmentation of pancreatic tumors on CT scans](https://ieeexplore.ieee.org/abstract/document/8363793/) - Zhihui Guo, Ling Zhang, Le Lu, Mohammadhadi Bagheri, Ronald M. Summers, Milan Sonka, Jianhua Yao (2018)
 
-### Treatment
+### Prognostics
+* [An Improved Method for Prediction of Cancer Prognosis by Network Learning](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6210393/) - Minseon Kim, Ilhwan Oh, Jaegyoon Ahn (2018)
 
+### Treatment
 #### Personalized chemotherapy
 * [Reinforcement learning design for cancer clinical trials](https://www.researchgate.net/publication/26808581_Reinforcement_learning_design_for_cancer_clinical_trials) - Yufan Zhao, Michael R. Kosorok, Donglin Zeng (2009)
 * [Personalized Cancer Chemotherapy Schedule: a numerical comparison of performance and robustness in model-based and model-free scheduling methodologies](https://arxiv.org/abs/1904.01200) - Jesus Tordesillas, Juncal Arbelaiz (2019)
