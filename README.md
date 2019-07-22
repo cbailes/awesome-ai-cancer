@@ -29,6 +29,9 @@ Patreon: https://www.patreon.com/craigbailes
 * [Deep learning for tumor classification in imaging mass spectrometry](https://academic.oup.com/bioinformatics/article/34/7/1215/4604594) - Jens Behrmann, Christian Etmann, Tobias Boskamp, Rita Casadonte, Jörg Kriegsmann,  Peter Maaβ (2018)
 * [Spatial Organization and Molecular Correlation of Tumor-Infiltrating Lymphocytes Using Deep Learning on Pathology Images](https://www.sciencedirect.com/science/article/pii/S2211124718304479) - JoelSaltz, Rajarsi Gupta, Le Hou, Tahsin Kurc, Pankaj Singh, Vu Nguyen, Dimitris Samaras, Kenneth R. Shroyer, Tianhao Zhao, Rebecca Batiste, John Van Arnam (2018)
 
+#### Breast
+* [Machine Learning with Applications in Breast Cancer Diagnosis and Prognosis](https://www.researchgate.net/publication/325064884_Machine_Learning_with_Applications_in_Breast_Cancer_Diagnosis_and_Prognosis) - Wenbin Yue, Zidong Wang, Hongwei Chen, Annette Margaret Payne, Xiaohui Liu (2018)
+
 #### Cervical
 * [Intelligent Inverse Treatment Planning via Deep Reinforcement Learning, a Proof-of-Principle Study in High Dose-rate Brachytherapy for Cervical Cancer](https://arxiv.org/pdf/1811.10102.pdf) - Chenyang Shen, Yesenia Gonzalez, Peter Klages, Nan Qin, Hyunuk Jung, Liyuan Chen, Dan Nguyen, Steve B. Jiang, Xun Jia (2019)
 
@@ -71,6 +74,7 @@ Patreon: https://www.patreon.com/craigbailes
 * [Machine learning applications in cancer prognosis and prediction](https://www.sciencedirect.com/science/article/pii/S2001037014000464) - Konstantina Kourou, Themis P. Exarchos, Konstantinos P. Exarchos, Michalis V. Karamouzis, Dimitrios I. Fotiadis (2015)
 
 #### Breast
+* [Machine Learning with Applications in Breast Cancer Diagnosis and Prognosis](https://www.researchgate.net/publication/325064884_Machine_Learning_with_Applications_in_Breast_Cancer_Diagnosis_and_Prognosis) - Wenbin Yue, Zidong Wang, Hongwei Chen, Annette Margaret Payne, Xiaohui Liu (2018)
 * [Application of Machine Learning Models for Survival Prognosis in Breast Cancer Studies](https://doi.org/10.3390/info10030093) - Iliyan Mihaylov, Maria Nisheva, Dimitar Vassilev (2019)
 
 #### Colorectal 
