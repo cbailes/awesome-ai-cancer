@@ -77,6 +77,7 @@ Patreon: https://www.patreon.com/craigbailes
 
 #### Breast
 * [Machine Learning with Applications in Breast Cancer Diagnosis and Prognosis](https://www.researchgate.net/publication/325064884_Machine_Learning_with_Applications_in_Breast_Cancer_Diagnosis_and_Prognosis) - Wenbin Yue, Zidong Wang, Hongwei Chen, Annette Margaret Payne, Xiaohui Liu (2018)
+* [On Breast Cancer Detection: An Application of Machine Learning Algorithms on the Wisconsin Diagnostic Dataset](https://arxiv.org/abs/1711.07831) - Abien Fred M. Agarap (2019)
 * [Application of Machine Learning Models for Survival Prognosis in Breast Cancer Studies](https://doi.org/10.3390/info10030093) - Iliyan Mihaylov, Maria Nisheva, Dimitar Vassilev (2019)
 * [Breast Cancer Prognosis Using a Machine Learning Approach](https://www.researchgate.net/publication/331619628_Breast_Cancer_Prognosis_Using_a_Machine_Learning_Approach) - Patrizia Ferroni, Fabio Massimo Zanzotto, Silvia Riondino, Noemi Scarpato, Fiorella Guadagni, Mario Roselli (2019)
 * [Predicting factors for survival of breast cancer patients using machine learning techniques](https://link.springer.com/article/10.1186/s12911-019-0801-4) - Mogana Darshini Ganggayah, Nur Aishah Taib, Yip Cheng Har, Pietro Lio, Sarinder Kaur Dhillon (2019) 
