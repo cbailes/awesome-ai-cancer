@@ -70,6 +70,9 @@ Patreon: https://www.patreon.com/craigbailes
 ### Prognostics
 * [Machine learning applications in cancer prognosis and prediction](https://www.sciencedirect.com/science/article/pii/S2001037014000464) - Konstantina Kourou, Themis P. Exarchos, Konstantinos P. Exarchos, Michalis V. Karamouzis, Dimitrios I. Fotiadis (2015)
 
+#### Breast
+* [Application of Machine Learning Models for Survival Prognosis in Breast Cancer Studies](https://doi.org/10.3390/info10030093) - Iliyan Mihaylov, Maria Nisheva, Dimitar Vassilev (2019)
+
 #### Colorectal 
 * [Predicting survival from colorectal cancer histology slides using deep learning: A retrospective multicenter study](https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1002730) - Jakob Nikolas Kather, Johannes Krisam, Pornpimol Charoentong, Tom Luedde, Esther Herpel, Cleo-Aron Weis, Timo Gaiser, Alexander Marx, Nektarios A. Valous, Dyke Ferber, Lina Jansen, Constantino Carlos Reyes-Aldasoro, Inka Zörnig, Dirk Jäger, Hermann Brenner, Jenny Chang-Claude, Michael Hoffmeister, Niels Halama (2019)
 
@@ -91,6 +94,7 @@ Patreon: https://www.patreon.com/craigbailes
 * [Deep Learning with Big Health Data for Early Cancer Detection and Prevention](http://chapter.aapm.org/orv/meetings/fall2017/5-Deep%20Learning%20with%20Big%20Health%20Data%20for%20Early%20Cancer%20Detection%20and%20Prevention.pdf) - Jun Deng, Yale (2017)
 
 ### Other and meta resources
+* [Machine Learning Is The Future Of Cancer Prediction](https://towardsdatascience.com/machine-learning-is-the-future-of-cancer-prediction-e4d28e7e6dfa) - Sohail Sayed (2018)
 * [Google Deep Learning Tool 99% Accurate at Breast Cancer Detection](https://healthitanalytics.com/news/google-deep-learning-tool-99-accurate-at-breast-cancer-detection) - Jessica Kent (2018)
 * [Deep Learning in Oncology – Applications in Fighting Cancer](https://emerj.com/ai-sector-overviews/deep-learning-in-oncology/) - Abder-Rahman Ali (2019)
 * [Google Develops Deep Learning Tool to Enhance Lung Cancer Detection](https://healthitanalytics.com/news/google-develops-deep-learning-tool-to-enhance-lung-cancer-detection) - Jessica Kent (2019)
