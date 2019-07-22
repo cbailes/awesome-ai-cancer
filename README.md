@@ -18,6 +18,7 @@ Thoughts? Suggestions? contact@craigbailes.com
 
 #### Breast
 * [akshaybahadur21/BreastCancer_Classification](https://github.com/akshaybahadur21/BreastCancer_Classification) - Machine learning classifier for cancer tissues
+* [AyeshaShafique/Breast-Cancer-Study](https://github.com/AyeshaShafique/Breast-Cancer-Study) - An experiment comparing the precision of MLP, XGBoost Classifier, Random Forest, Logistic Regression, SVM Linear Kernel, SVM RBF Kernel, KNN, and AdaBoost in classifying breast tumors
 * [bhrzali/breast_cancer_classification](https://github.com/bhrzali/breast_cancer_classification) - A simple breast tumor classifier written in iPython and R
 * [EliasVansteenkiste/dsb3](https://github.com/EliasVansteenkiste/dsb3) - A deep learning framework for lung cancer prediction built with Lasagne/Theano
 * [Jean-njoroge/Breast-cancer-risk-prediction](https://github.com/Jean-njoroge/Breast-cancer-risk-prediction) - Classification of Breast Cancer diagnosis Using Support Vector Machines
