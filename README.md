@@ -47,6 +47,9 @@ Chen, Dan Nguyen, Steve B. Jiang, Xun Jia (2019)
 * [An Improved Method for Prediction of Cancer Prognosis by Network Learning](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6210393/) - Minseon Kim, Ilhwan Oh, Jaegyoon Ahn (2018)
 
 ### Treatment
+#### Drug design
+* [Multicellular Target QSAR Model for Simultaneous Prediction and Design of Anti-Pancreatic Cancer Agents](https://pubs.acs.org/doi/10.1021/acsomega.8b03693) - Alejandro Speck-Planche (2019)
+
 #### Personalized chemotherapy
 * [Reinforcement learning design for cancer clinical trials](https://www.researchgate.net/publication/26808581_Reinforcement_learning_design_for_cancer_clinical_trials) - Yufan Zhao, Michael R. Kosorok, Donglin Zeng (2009)
 * [Personalized Cancer Chemotherapy Schedule: a numerical comparison of performance and robustness in model-based and model-free scheduling methodologies](https://arxiv.org/abs/1904.01200) - Jesus Tordesillas, Juncal Arbelaiz (2019)
