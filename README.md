@@ -23,6 +23,7 @@ Thoughts? Suggestions? contact@craigbailes.com
 * [EliasVansteenkiste/dsb3](https://github.com/EliasVansteenkiste/dsb3) - A deep learning framework for lung cancer prediction built with Lasagne/Theano
 * [Jean-njoroge/Breast-cancer-risk-prediction](https://github.com/Jean-njoroge/Breast-cancer-risk-prediction) - Classification of Breast Cancer diagnosis Using Support Vector Machines
 * [kaas3000/exercise-breast-cancer](https://github.com/kaas3000/exercise-breast-cancer) - Python feed-forward neural network to predict breast cancer. Trained using stochastic gradient descent in combination with backpropagation
+* [MahmudulHassan5809/BreastCancerPredictionPython3](https://github.com/MahmudulHassan5809/BreastCancerPredictionPython3) - Breast Cancer Prediction Using SVM in Python3
 * [mathewyang/Wisconsin-Breast-Cancer](https://github.com/mathewyang/Wisconsin-Breast-Cancer) - Classifying benign and malignant breast tumor cells
 * [MoganaD/Machine-Learning-on-Breast-Cancer-Survival-Prediction](https://github.com/MoganaD/Machine-Learning-on-Breast-Cancer-Survival-Prediction) - Model evaluation, Random Forest further modelling, variable importance, decision tree, and survival analysis in R
 * [Shilpi75/Breast-Cancer-Prediction](https://github.com/Shilpi75/Breast-Cancer-Prediction) - Breast Cancer Prediction using fuzzy clustering and classification
