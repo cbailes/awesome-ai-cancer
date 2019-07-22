@@ -17,24 +17,33 @@ Patreon: https://www.patreon.com/craigbailes
 
 ### Datasets
 * [Cancer Data Access System](https://biometry.nci.nih.gov/cdas/) @ National Cancer Institute
+* [Clinical, Genomic, Imaging Data & Specimens](https://cbttc.org/research/specimendata/) @ Children’s Brain Tumor Tissue Consortium
 * [MOBCdb a comprehensive database integrating multi-omics data of breast cancer](http://bigd.big.ac.cn/MOBCdb/) 
 * [PCMdb: Pancreatic Cancer Methylation Database](http://crdd.osdd.net/raghava/pcmdb/)
 
 ## Papers 
 * [Architectures and accuracy of artificial neural network for disease classification from omics data](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6399893/) - Hui Yu, David C. Samuels, Ying-yong Zhao, Yan Guo (2019)
 
-### Detection
+### Detection and diagnosis
 * [Deep learning for tumor classification in imaging mass spectrometry](https://academic.oup.com/bioinformatics/article/34/7/1215/4604594) - Jens Behrmann, Christian Etmann, Tobias Boskamp, Rita Casadonte, Jörg Kriegsmann,  Peter Maaβ (2018)
 * [Spatial Organization and Molecular Correlation of Tumor-Infiltrating Lymphocytes Using Deep Learning on Pathology Images](https://www.sciencedirect.com/science/article/pii/S2211124718304479) - JoelSaltz, Rajarsi Gupta, Le Hou, Tahsin Kurc, Pankaj Singh, Vu Nguyen, Dimitris Samaras, Kenneth R. Shroyer, Tianhao Zhao, Rebecca Batiste, John Van Arnam (2018)
 
 #### Cervical
 * [Intelligent Inverse Treatment Planning via Deep Reinforcement Learning, a Proof-of-Principle Study in High Dose-rate Brachytherapy for Cervical Cancer](https://arxiv.org/pdf/1811.10102.pdf) - Chenyang Shen, Yesenia Gonzalez, Peter Klages, Nan Qin, Hyunuk Jung, Liyuan Chen, Dan Nguyen, Steve B. Jiang, Xun Jia (2019)
 
+#### Liver
+* [Deep learning for liver tumor diagnosis part I: development of a convolutional neural network classifier for multi-phasic MRI](https://www.ncbi.nlm.nih.gov/pubmed/31016442) - Charlie A. Hamm, Clinton J. Wang, Lynn Jeanette Savic, Marc Ferrante, Isabel Schobert, Todd Schlachter, MingDe Lin, James S. Duncan, Jeffrey C. Weinreb, Julius Chapiro, Brian Letzen (2019)
+* [Deep learning for liver tumor diagnosis part II: convolutional neural network interpretation using radiologic imaging features](https://www.ncbi.nlm.nih.gov/pubmed/31093705) - Clinton J. Wang, Charlie A. Hamm, Lynn Jeanette Savic, Marc Ferrante, Isabel Schobert, Todd Schlachter, MingDe Lin, Jeffrey C. Weinreb, James S. Duncan, Julius Chapiro, Brian Letzen (2019)
+
 #### Lung
 * [Deep Reinforcement Learning for Automated Radiation Adaptation in Lung Cancer](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5734677/) - Huan-Hsin Tseng, Yi Luo, Sunan Cui, Jen-Tzung Chien, Randall K. Ten Haken, Issam El Naqa (2017)
 * [Lung Nodule Detection via Deep Reinforcement Learning](https://www.frontiersin.org/articles/10.3389/fonc.2018.00108/full) - Issa Ali, Gregory R. Hart, Gowthaman Gunabushanam, Ying Liang, Wazir Muhammad, Bradley Nartowt, Michael Kane, Xiaomei Ma, Jun Deng (2018)
 * [Deep reinforcement learning with its application for lung cancer detection in medical Internet of Things](https://www.sciencedirect.com/science/article/pii/S0167739X19303772) - Zhuo Liua, Chenhui Yaob, Hang Yuc, Taihua Wua (2019)
 * [Automated Pulmonary Nodule Classification in Computed Tomography Images Using a Deep Convolutional Neural Network Trained by Generative Adversarial Networks](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6334309/) - Yuya Onishi, Atsushi Teramoto, Masakazu Tsujimoto, Tetsuya Tsukamoto, Kuniaki Saito, Hiroshi Toyama, Kazuyoshi Imaizumi, Hiroshi Fujita (2019)
+
+#### Mesothelioma
+* [Development and validation of a deep learning model using biomarkers in pleural effusion for prediction of malignant pleural mesothelioma](https://doi.org/10.1093/annonc/mdy301.003) - S. Ikegaki, Y. Kataoka, T. Otoshi, T. Takemura, M. Shimada (2018)
+* [Diagnosis of mesothelioma with deep learning](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6341823/) - Xue Hu, Zebo Yu (2019)
 
 #### Nasopharyngeal
 * [Deep Deconvolutional Neural Network for Target Segmentation of Nasopharyngeal Cancer in Planning Computed Tomography Images](https://www.frontiersin.org/articles/10.3389/fonc.2017.00315/full) - Kuo Men, Xinyuan Chen, Ye Zhang, Tao Zhang, Jianrong Dai, Junlin Yi, Yexiong Li (2017)
