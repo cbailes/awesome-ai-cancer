@@ -68,6 +68,7 @@ Patreon: https://www.patreon.com/craigbailes
 * [Deep learning convolutional neural network (CNN) With Gaussian mixture model for predicting pancreatic cancer](https://link.springer.com/article/10.1007%2Fs11042-019-7419-5) - Kaushik Sekaran, P. Chandana, N. Murali Krishna, Seifedine Kadry (2019)
 
 ### Prognostics
+* [Machine learning applications in cancer prognosis and prediction](https://www.sciencedirect.com/science/article/pii/S2001037014000464) - Konstantina Kourou, Themis P. Exarchos, Konstantinos P. Exarchos, Michalis V. Karamouzis, Dimitrios I. Fotiadis (2015)
 
 #### Colorectal 
 * [Predicting survival from colorectal cancer histology slides using deep learning: A retrospective multicenter study](https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1002730) - Jakob Nikolas Kather, Johannes Krisam, Pornpimol Charoentong, Tom Luedde, Esther Herpel, Cleo-Aron Weis, Timo Gaiser, Alexander Marx, Nektarios A. Valous, Dyke Ferber, Lina Jansen, Constantino Carlos Reyes-Aldasoro, Inka Zörnig, Dirk Jäger, Hermann Brenner, Jenny Chang-Claude, Michael Hoffmeister, Niels Halama (2019)
