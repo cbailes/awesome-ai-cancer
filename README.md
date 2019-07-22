@@ -19,6 +19,7 @@ Patreon: https://www.patreon.com/craigbailes
 * [AFAgarap/wisconsin-breast-cancer](https://github.com/AFAgarap/wisconsin-breast-cancer) - Codebase for *On Breast Cancer Detection: An Application of Machine Learning Algorithms on the Wisconsin Diagnostic Dataset [ICMLSC 2018 / arxiv 1711.07831]*
 
 ### Datasets
+* [Breast Cancer Wisconsin (Diagnostic) Data Set](http://archive.ics.uci.edu/ml/datasets/breast+cancer+wisconsin+(diagnostic)) @ UC Irvine
 * [Cancer Data Access System](https://biometry.nci.nih.gov/cdas/) @ National Cancer Institute
 * [Clinical, Genomic, Imaging Data & Specimens](https://cbttc.org/research/specimendata/) @ Children’s Brain Tumor Tissue Consortium
 * [MOBCdb a comprehensive database integrating multi-omics data of breast cancer](http://bigd.big.ac.cn/MOBCdb/) 
