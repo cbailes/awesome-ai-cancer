@@ -24,6 +24,7 @@ Thoughts? Suggestions? contact@craigbailes.com
 * [kaas3000/exercise-breast-cancer](https://github.com/kaas3000/exercise-breast-cancer) - Python feed-forward neural network to predict breast cancer. Trained using stochastic gradient descent in combination with backpropagation
 * [mathewyang/Wisconsin-Breast-Cancer](https://github.com/mathewyang/Wisconsin-Breast-Cancer) - Classifying benign and malignant breast tumor cells
 * [Shilpi75/Breast-Cancer-Prediction](https://github.com/Shilpi75/Breast-Cancer-Prediction) - Breast Cancer Prediction using fuzzy clustering and classification
+* [spatri22/BenignMalignantClassification](https://github.com/spatri22/BenignMalignantClassification) - Classification of breast lesion contours to benign and malignant categories
 * [vkasojhaa/Clinical-Decision-Support-using-Machine-Learning](https://github.com/vkasojhaa/Clinical-Decision-Support-using-Machine-Learning) - Predicting the Stage of Breast Cancer - M (Malignant) and B (Benign) using different Machine learning models and comparing their performance
 * [Wigder/inns](https://github.com/Wigder/inns) - An experiment using neural networks to predict obesity-related breast cancer over a small dataset of blood samples
 
