@@ -34,6 +34,7 @@ Chen, Dan Nguyen, Steve B. Jiang, Xun Jia (2019)
 * [Deep Reinforcement Learning for Automated Radiation Adaptation in Lung Cancer](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5734677/) - Huan-Hsin Tseng, Yi Luo, Sunan Cui, Jen-Tzung Chien, Randall K. Ten Haken, Issam El Naqa (2017)
 * [Lung Nodule Detection via Deep Reinforcement Learning](https://www.frontiersin.org/articles/10.3389/fonc.2018.00108/full) - Issa Ali, Gregory R. Hart, Gowthaman Gunabushanam, Ying Liang, Wazir Muhammad, Bradley Nartowt, Michael Kane, Xiaomei Ma, Jun Deng (2018)
 * [Deep reinforcement learning with its application for lung cancer detection in medical Internet of Things](https://www.sciencedirect.com/science/article/pii/S0167739X19303772) - Zhuo Liua, Chenhui Yaob, Hang Yuc, Taihua Wua (2019)
+* [Automated Pulmonary Nodule Classification in Computed Tomography Images Using a Deep Convolutional Neural Network Trained by Generative Adversarial Networks](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6334309/) - Yuya Onishi, Atsushi Teramoto, Masakazu Tsujimoto, Tetsuya Tsukamoto, Kuniaki Saito, Hiroshi Toyama, Kazuyoshi Imaizumi, Hiroshi Fujita (2019)
 
 #### Nasopharyngeal
 * [Deep Deconvolutional Neural Network for Target Segmentation of Nasopharyngeal Cancer in Planning Computed Tomography Images](https://www.frontiersin.org/articles/10.3389/fonc.2017.00315/full) - Kuo Men, Xinyuan Chen, Ye Zhang, Tao Zhang, Jianrong Dai, Junlin Yi, Yexiong Li (2017)
