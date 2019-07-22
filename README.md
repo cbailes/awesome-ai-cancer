@@ -37,6 +37,7 @@ Thoughts? Suggestions? contact@craigbailes.com
 * [spatri22/BenignMalignantClassification](https://github.com/spatri22/BenignMalignantClassification) - [[Paper](https://www.researchgate.net/publication/282954526_A_new_features_extraction_method_based_on_polynomial_regression_for_the_assessment_of_breast_lesion_Contours)] - Classification of breast lesion contours to benign and malignant categories
 * [vkasojhaa/Clinical-Decision-Support-using-Machine-Learning](https://github.com/vkasojhaa/Clinical-Decision-Support-using-Machine-Learning) - Predicting the Stage of Breast Cancer - M (Malignant) and B (Benign) using different Machine learning models and comparing their performance
 * [Wigder/inns](https://github.com/Wigder/inns) - An experiment using neural networks to predict obesity-related breast cancer over a small dataset of blood samples
+* [YogiOnBioinformatics/Bioimaging-Informatics-Machine-Learning-for-Cancerous-Breast-Cell-Detection](https://github.com/YogiOnBioinformatics/Bioimaging-Informatics-Machine-Learning-for-Cancerous-Breast-Cell-Detection) - Evaluation of Automated Breast Density Segmentation Software on Segmenting Digital Mammograms Acquired at Magee-Womens Hospital
 
 #### Lung
 * [ncoudray/DeepPATH](https://github.com/ncoudray/DeepPATH) - Classification of Lung cancer slide images using deep-learning
