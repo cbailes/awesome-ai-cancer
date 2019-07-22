@@ -39,7 +39,7 @@ Thoughts? Suggestions? contact@craigbailes.com
 * [AiAiHealthcare/ProjectAiAi](https://github.com/AiAiHealthcare/ProjectAiAi) - A project with the slated goal of building an FDA-approved, open source deep learning system for detecting lung cancer
 
 ### Datasets
-* [Breast Cancer Wisconsin (Diagnostic) Data Set](https://www.kaggle.com/uciml/breast-cancer-wisconsin-data) @ Kaggle via [UC Irvine](http://archive.ics.uci.edu/ml/datasets/breast+cancer+wisconsin+(diagnostic))
+* [Breast Cancer Wisconsin (Diagnostic) Data Set](https://www.kaggle.com/uciml/breast-cancer-wisconsin-data) [[Kernels](https://www.kaggle.com/uciml/breast-cancer-wisconsin-data/kernels)]
 * [Cancer Data Access System](https://biometry.nci.nih.gov/cdas/) @ National Cancer Institute
 * [Clinical, Genomic, Imaging Data & Specimens](https://cbttc.org/research/specimendata/) @ Children’s Brain Tumor Tissue Consortium
 * [MIAS Mammography](https://www.kaggle.com/kmader/mias-mammography)
