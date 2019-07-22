@@ -68,6 +68,9 @@ Patreon: https://www.patreon.com/craigbailes
 #### Colorectal 
 * [Predicting survival from colorectal cancer histology slides using deep learning: A retrospective multicenter study](https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1002730) - Jakob Nikolas Kather, Johannes Krisam, Pornpimol Charoentong, Tom Luedde, Esther Herpel, Cleo-Aron Weis, Timo Gaiser, Alexander Marx, Nektarios A. Valous, Dyke Ferber, Lina Jansen, Constantino Carlos Reyes-Aldasoro, Inka Zörnig, Dirk Jäger, Hermann Brenner, Jenny Chang-Claude, Michael Hoffmeister, Niels Halama (2019)
 
+#### Liver
+* [Deep Learning–Based Multi-Omics Integration Robustly Predicts Survival in Liver Cancer](http://clincancerres.aacrjournals.org/content/24/6/1248) - Kumardeep Chaudhary, Olivier B. Poirion, Liangqun Lu, Lana X. Garmire (2018)
+
 #### Pancreatic
 * [An Improved Method for Prediction of Cancer Prognosis by Network Learning](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6210393/) - Minseon Kim, Ilhwan Oh, Jaegyoon Ahn (2018)
 
