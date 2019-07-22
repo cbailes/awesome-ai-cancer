@@ -11,7 +11,8 @@ Thoughts? Suggestions? contact@craigbailes.com
 * [Cancer](https://paperswithcode.com/task/cancer) @ Papers With Code
 
 ### Challenges
-* [ICIAR 2018 Grand Challenge on BreAst Cancer Histology images](https://iciar2018-challenge.grand-challenge.org)
+* [CAMELYON17](https://camelyon17.grand-challenge.org) - Automated detection and classification of breast cancer metastases in whole-slide images of histological lymph node sections (2017)
+* [ICIAR Grand Challenge on BreAst Cancer Histology images](https://iciar2018-challenge.grand-challenge.org) (2018)
 * [Multimodal Brain Tumor Segmentation Challenge](https://www.med.upenn.edu/sbia/brats2018.html) - UPenn (2018)
 * [Pancreatic Cancer Survival Prediction](http://miccai.cloudapp.net/competitions/84) - MICCAI (2018)
 
@@ -48,12 +49,20 @@ Thoughts? Suggestions? contact@craigbailes.com
 * [AiAiHealthcare/ProjectAiAi](https://github.com/AiAiHealthcare/ProjectAiAi) - A project with the slated goal of building an FDA-approved, open source deep learning system for detecting lung cancer
 
 ### Datasets
-* [BACH dataset](https://iciar2018-challenge.grand-challenge.org/Dataset/) - Hematoxylin and eosin (H&E) stained breast histology microscopy and whole-slide images from the ICIAR 2018 Grand Challenge on BreAst Cancer Histology
-* [Breast Cancer Wisconsin (Diagnostic) Data Set](https://www.kaggle.com/uciml/breast-cancer-wisconsin-data) - [[Kernels](https://www.kaggle.com/uciml/breast-cancer-wisconsin-data/kernels)]
 * [Cancer Data Access System](https://biometry.nci.nih.gov/cdas/) @ National Cancer Institute
 * [Clinical, Genomic, Imaging Data & Specimens](https://cbttc.org/research/specimendata/) @ Children’s Brain Tumor Tissue Consortium
+
+#### Breast
+* [BACH dataset](https://iciar2018-challenge.grand-challenge.org/Dataset/) - Hematoxylin and eosin (H&E) stained breast histology microscopy and whole-slide images from the ICIAR 2018 Grand Challenge on BreAst Cancer Histology
+* [Bioimaging Challenge 2015 Breast Histology Dataset](https://rdm.inesctec.pt/dataset/nis-2017-003) - Breast histology images from four classes: normal, benign, in situ carconima and invasive carcinoma
+* [Breast Cancer Histopathological Image Classification Database (BreakHis)](https://web.inf.ufpr.br/vri/databases/breast-cancer-histopathological-database-breakhis/) - Laboratório Visão Robótica e Imagem, Prevenção & Diagnose Lab
+* [Breast Cancer Wisconsin (Diagnostic) Data Set](https://www.kaggle.com/uciml/breast-cancer-wisconsin-data) - [[Kernels](https://www.kaggle.com/uciml/breast-cancer-wisconsin-data/kernels)]
+* [CAMELYON16 dataset](https://camelyon16.grand-challenge.org/Data/) - 400 whole-slide images (WSIs) of sentinel lymph node from two independent datasets collected in Radboud University Medical Center and University Medical Center Utrecht
+* [CAMELYON17 dataset](https://camelyon17.grand-challenge.org/Data/) - 1000 whole-slide images (WSI) of hematoxylin and eosin (H&E) stained lymph node sections from patients at 5 hospitals in the Netherlands
 * [MIAS Mammography](https://www.kaggle.com/kmader/mias-mammography)
 * [MOBCdb a comprehensive database integrating multi-omics data of breast cancer](http://bigd.big.ac.cn/MOBCdb/) 
+
+#### Pancreatic
 * [PCMdb: Pancreatic Cancer Methylation Database](http://crdd.osdd.net/raghava/pcmdb/)
 
 ## Papers 
