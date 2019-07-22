@@ -11,6 +11,7 @@ Thoughts? Suggestions? contact@craigbailes.com
 * [Cancer](https://paperswithcode.com/task/cancer) @ Papers With Code
 
 ### Challenges
+* [ICIAR 2018 Grand Challenge on BreAst Cancer Histology images](https://iciar2018-challenge.grand-challenge.org)
 * [Multimodal Brain Tumor Segmentation Challenge](https://www.med.upenn.edu/sbia/brats2018.html) - UPenn (2018)
 * [Pancreatic Cancer Survival Prediction](http://miccai.cloudapp.net/competitions/84) - MICCAI (2018)
 
