@@ -31,6 +31,7 @@ Thoughts? Suggestions? contact@craigbailes.com
 * [kaas3000/exercise-breast-cancer](https://github.com/kaas3000/exercise-breast-cancer) - Python feed-forward neural network to predict breast cancer. Trained using stochastic gradient descent in combination with backpropagation
 * [MahmudulHassan5809/BreastCancerPredictionPython3](https://github.com/MahmudulHassan5809/BreastCancerPredictionPython3) - Breast Cancer Prediction Using SVM in Python3
 * [mathewyang/Wisconsin-Breast-Cancer](https://github.com/mathewyang/Wisconsin-Breast-Cancer) - Classifying benign and malignant breast tumor cells
+* [millyleadley/breast-cancer-genes](https://github.com/millyleadley/breast-cancer-genes) - Predicting survival outcome in breast cancer patients based on their gene expression
 * [MoganaD/Machine-Learning-on-Breast-Cancer-Survival-Prediction](https://github.com/MoganaD/Machine-Learning-on-Breast-Cancer-Survival-Prediction) - Model evaluation, Random Forest further modelling, variable importance, decision tree, and survival analysis in R
 * [MrKhan0747/Breast-Cancer-Detection](https://github.com/MrKhan0747/Breast-Cancer-Detection) - Simple model for the Wisconsin dataset using logistic regression, support vector machine, KNN, naive Bayes, and random forest classifier
 * [Shilpi75/Breast-Cancer-Prediction](https://github.com/Shilpi75/Breast-Cancer-Prediction) - Breast Cancer Prediction using fuzzy clustering and classification
