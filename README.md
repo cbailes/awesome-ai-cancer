@@ -49,6 +49,8 @@ Thoughts? Suggestions? contact@craigbailes.com
 * [AiAiHealthcare/ProjectAiAi](https://github.com/AiAiHealthcare/ProjectAiAi) - A project with the slated goal of building an FDA-approved, open source deep learning system for detecting lung cancer
 
 #### Prostate
+* [bikramb98/Prostate-cancer-prediction](https://github.com/bikramb98/Prostate-cancer-prediction) - A simple prostate cancer prediction model built using KNN on a small dataset
+* [I2Cvb/prostate](https://github.com/I2Cvb/prostate) - Prostate cancer research repository from the Initiative for Collaborative Computer Vision Benchmarking
 * [jameshorine/prostate_cancer](https://github.com/jameshorine/prostate_cancer) - A random forest model for predicting prostate cancer survival
 * [ProstateCancer.ai](http://prostatecancer.ai) - An open-source web-application developed on the Tesseract-Medical Imaging platform designed to assist radiologists with a second opinion while simultaneously providing a standard image viewing and reporting scheme
 * [sahirbhatnagar/prostate](https://github.com/sahirbhatnagar/prostate) - Life expectancy tool for curative prostate cancer patients using Shiny app for R
