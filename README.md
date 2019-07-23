@@ -156,7 +156,9 @@ Open access: all rights granted for use and re-use of any kind, by anyone, at no
 * [Intelligent Inverse Treatment Planning via Deep Reinforcement Learning, a Proof-of-Principle Study in High Dose-rate Brachytherapy for Cervical Cancer](https://arxiv.org/pdf/1811.10102.pdf) - Chenyang Shen, Yesenia Gonzalez, Peter Klages, Nan Qin, Hyunuk Jung, Liyuan Chen, Dan Nguyen, Steve B. Jiang, Xun Jia (2019)
 
 #### Esophageal
+* [Esophagus segmentation in CT via 3D fully convolutional neural network and random walk](https://aapm.onlinelibrary.wiley.com/doi/pdf/10.1002/mp.12593) - Tobias Fechter, Sonja Adebahr, Dimos Baltas, Ismail Ben Ayed, Christian Desrosiers, Jose Doiz (2017)
 * [Diagnostic outcomes of esophageal cancer by artificial intelligence using convolutional neural networks](https://www.sciencedirect.com/science/article/pii/S0016510718329262) - Yoshimasa Horie, Toshiyuki Yoshio, Kazuharu Aoyama, Shoichi Yoshimizu, Yusuke Horiuchi, Akiyoshi Ishiyama, Toshiaki Hirasawa, Tomohiro Tsuchida, Tsuyoshi Ozawa, Soichiro Ishihara, Youichi Kumagai, Mitsuhiro Fujishiro, Iruru Maetani, Junko Fujisaki, Tomohiro Tada (2018)
+* [Early esophageal adenocarcinoma detection using deep learning methods](https://link.springer.com/article/10.1007/s11548-019-01914-4) - Noha Ghatwar, Massoud Zolgharni, Xujiong Ye (2019)
 
 #### Liver
 * [Deep learning based classification of focal liver lesions with contrast-enhanced ultrasound](https://iciar2018-challenge.grand-challenge.org/media/evaluation-supplementary/176/16918/dc233d3b-ffe1-49c7-bacd-17beb04c10f6/Deep_learning_ba_w8Kpz96.pdf) - Kaizhi Wu, Xi Chen, Mingyue Ding (2014)
