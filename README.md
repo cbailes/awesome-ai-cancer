@@ -105,9 +105,11 @@ Open access: all rights granted for use and re-use of any kind, by anyone, at no
 * [jameshorine/prostate_cancer](https://github.com/jameshorine/prostate_cancer) - A random forest model for predicting prostate cancer survival
 * [Jin93/PCa-mpMRI](https://github.com/Jin93/PCa-mpMRI) - [[Paper](https://doi.org/10.1002/sim.7810)] - Four models for detecting prostate cancer with multi-parametric MRI utilizing anatomic structure
 * [kkchau/NACEP-Analysis-of-Prostate-Cancer-Cells](https://github.com/kkchau/NACEP-Analysis-of-Prostate-Cancer-Cells) - NACEP Analysis of Tumorigenic prostate epithelial cells
+* [kristiyanto/DREAM9.5](https://github.com/kristiyanto/DREAM9.5) - Predicting discontinuation of docetaxel treatment for metastatic castration-resistant prostate cancer (mCRPC)
 * [ProstateCancer.ai](http://prostatecancer.ai) - An open-source web-application developed on the Tesseract-Medical Imaging platform designed to assist radiologists with a second opinion while simultaneously providing a standard image viewing and reporting scheme
 * [rycoley/prediction-prostate-surveillance](https://github.com/rycoley/prediction-prostate-surveillance) - [[Paper](https://arxiv.org/pdf/1508.07511.pdf)] - Joint modeling of latent prostate cancer state and observed clinical outcomes for active surveillance of low risk prostate cancer
 * [sahirbhatnagar/prostate](https://github.com/sahirbhatnagar/prostate) - Life expectancy tool for curative prostate cancer patients using Shiny app for R
+* [swiri021/PAM50_Classifier_for_PRCA](https://github.com/swiri021/PAM50_Classifier_for_PRCA) - [[Paper](https://jamanetwork.com/journals/jamaoncology/article-abstract/2626510)] - PAM50 classifier for prostate cancer in Python based on Zhao el al on JAMA for the microarray data
 * [Tesseract-MI/prostatecancer.ai](https://github.com/Tesseract-MI/prostatecancer.ai) - An OHIF-based, zero-footprint DICOMweb medical image viewer that utilizes AI to identify clinically significant prostate cancer
 * [thom1178/Prostate-Cancer-Capsule](https://github.com/thom1178/Prostate-Cancer-Capsule) - [[Paper](https://github.com/thom1178/Prostate-Cancer-Capsule/blob/master/ProstateCancer.pdf)] - A logistic regression model to classify the capsule penetration of a tumor
 
