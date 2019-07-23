@@ -168,6 +168,7 @@ Open access: all rights granted for use and re-use of any kind, by anyone, at no
 #### Prostate
 * [A Bayesian Hierarchical Model for Prediction of Latent Health States from Multiple Data Sources with Application to Active Surveillance of Prostate Cancer](https://arxiv.org/abs/1508.07511) - [[Code](https://github.com/rycoley/prediction-prostate-surveillance)] - R. Yates Coley, Aaron J. Fisher, Mufaddal Mamawala, H. Ballentine Carter, Kenneth J. Pienta, Scott L. Zeger (2016)
 * [Adversarial Networks for the Detection of Aggressive Prostate Cancer](https://arxiv.org/abs/1702.08014) - Simon Kohl, David Bonekamp, Heinz-Peter Schlemmer, Kaneschka Yaqubi, Markus Hohenfellner, Boris Hadaschik, Jan-Philipp Radtke, Klaus Maier-Hein (2017)
+* [Adversarial Networks for Prostate Cancer Detection](https://www.researchgate.net/publication/321347307_Adversarial_Networks_for_Prostate_Cancer_Detection) - Simon Kohl, David Bonekamp, Heinz-Peter Schlemmer, Kaneschka Yaqubi, Markus Hohenfellner, Boris Hadaschik, Jan-Philipp Radtke, Klaus Maier-Hein (2017)
 * [Automated Gleason grading of prostate cancer tissue microarrays via deep learning](https://www.nature.com/articles/s41598-018-30535-1) - [[Dataset](https://doi.org/10.7910/DVN/OCYCMP)] - Eirini Arvaniti, Kim S. Fricker, Michael Moret, Niels Rupp, Thomas Hermanns, Christian Fankhauser, Norbert Wey, Peter J. Wild, Jan H. Rüschoff, Manfred Claassen (2018)
 * [Comparison of Artificial Intelligence Techniques to Evaluate Performance of a Classifier for Automatic Grading of Prostate Cancer From Digitized Histopathologic Images](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2727273) - Guy Nir, Davood Karimi, S. Larry Goldenberg, Ladan Fazli, Brian F. Skinnider, Peyman Tavassoli, Dmitry Turbin, Carlos F. Villamil, Gang Wang, Darby J. S. Thompson, Peter C. Black, Septimiu E. Salcudean (2019)
 * [Improving Prostate Cancer Detection with Breast Histopathology Images](https://arxiv.org/abs/1903.05769) - Umair Akhtar Hasan Khan, Carolin Stürenberg, Oguzhan Gencoglu, Kevin Sandeman, Timo Heikkinen, Antti Rannikko, Tuomas Mirtti (2019)
@@ -201,6 +202,7 @@ Open access: all rights granted for use and re-use of any kind, by anyone, at no
 
 ## Presentations
 * [Deep Learning with Big Health Data for Early Cancer Detection and Prevention](http://chapter.aapm.org/orv/meetings/fall2017/5-Deep%20Learning%20with%20Big%20Health%20Data%20for%20Early%20Cancer%20Detection%20and%20Prevention.pdf) - Jun Deng, Yale (2017)
+* [Automatic Prostate Cancer Classification using Deep Learning](http://www2.maths.lth.se/matematiklth/personal/kalle/deeplearning2018/LCCC_DeepLearning_IA.pdf) - Ida Arvidsson, Lund University, Sweden (2018)
 
 ## Other and meta resources
 * [Machine Learning Is The Future Of Cancer Prediction](https://towardsdatascience.com/machine-learning-is-the-future-of-cancer-prediction-e4d28e7e6dfa) - Sohail Sayed (2018)
