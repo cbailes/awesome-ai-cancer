@@ -36,8 +36,8 @@ Open access: all rights granted for use and re-use of any kind, by anyone, at no
   + [Treatment](#treatment)
     - [Drug design](#drug-design)
     - [Personalized chemotherapy](#personalized-chemotherapy)
-  + [Presentations](#presentations)
-  + [Other and meta resources](#other-and-meta-resources)
+* [Presentations](#presentations)
+* [Other and meta resources](#other-and-meta-resources)
 
 ## Code
 * [Cancer](https://paperswithcode.com/task/cancer) @ Papers With Code
@@ -195,10 +195,10 @@ Open access: all rights granted for use and re-use of any kind, by anyone, at no
 * [Reinforcement learning design for cancer clinical trials](https://www.researchgate.net/publication/26808581_Reinforcement_learning_design_for_cancer_clinical_trials) - Yufan Zhao, Michael R. Kosorok, Donglin Zeng (2009)
 * [Personalized Cancer Chemotherapy Schedule: a numerical comparison of performance and robustness in model-based and model-free scheduling methodologies](https://arxiv.org/abs/1904.01200) - Jesus Tordesillas, Juncal Arbelaiz (2019)
 
-### Presentations
+## Presentations
 * [Deep Learning with Big Health Data for Early Cancer Detection and Prevention](http://chapter.aapm.org/orv/meetings/fall2017/5-Deep%20Learning%20with%20Big%20Health%20Data%20for%20Early%20Cancer%20Detection%20and%20Prevention.pdf) - Jun Deng, Yale (2017)
 
-### Other and meta resources
+## Other and meta resources
 * [Machine Learning Is The Future Of Cancer Prediction](https://towardsdatascience.com/machine-learning-is-the-future-of-cancer-prediction-e4d28e7e6dfa) - Sohail Sayed (2018)
 * [Google Deep Learning Tool 99% Accurate at Breast Cancer Detection](https://healthitanalytics.com/news/google-deep-learning-tool-99-accurate-at-breast-cancer-detection) - Jessica Kent (2018)
 * [Deep Learning in Oncology – Applications in Fighting Cancer](https://emerj.com/ai-sector-overviews/deep-learning-in-oncology/) - Abder-Rahman Ali (2019)
