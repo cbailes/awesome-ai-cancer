@@ -243,6 +243,7 @@ Open access: all rights granted for use and re-use of any kind, by anyone, at no
 #### Radiation therapy
 * [Automated Treatment Planning in Radiation Therapy using Generative Adversarial Networks](https://arxiv.org/pdf/1807.06489.pdf) - Rafid Mahmood, Aarron Babier, Andrea McNiven, Adam Diamant, Timothy C. Y. Chan (2018)
 * [Dose evaluation of fast synthetic-CT generation using a generative adversarial network for general pelvis MR-only radiotherapy](https://pdfs.semanticscholar.org/b185/c48ec9445fa411505049366d73fd9895049a.pdf) - Matteo Maspero, Mark H. F. Savenije, Anna M. Dinkla, Peter R. Seevinck, Martijn P. W. Intven, Ina M. Jurgenliemk-Schulz, Linda G. W. Kerkmeijer, Cornelis A. T. van den Berg (2018)
+* [Adversarial optimization for joint registration and segmentation in prostate CT radiotherapy](https://arxiv.org/abs/1906.12223) - Mohamed S. Elmahdy, Jelmer M. Wolterink, Hessam Sokooti, Ivana Išgum, Marius Staring (2019)
 
 ## Presentations
 * [Deep Learning with Big Health Data for Early Cancer Detection and Prevention](http://chapter.aapm.org/orv/meetings/fall2017/5-Deep%20Learning%20with%20Big%20Health%20Data%20for%20Early%20Cancer%20Detection%20and%20Prevention.pdf) - Jun Deng, Yale (2017)
