@@ -7,12 +7,46 @@ Thoughts? Suggestions? contact@craigbailes.com
 
 © 2019 Craig Bailes ([@cbailes](https://github.com/cbailes)), open access and full reuse under the MIT License
 
+## Index
+- [awesome-ai-cancer](#awesome-ai-cancer)
+  * [Code](#code)
+    + [Challenges](#challenges)
+    + [Repositories](#repositories)
+      - [Breast](#breast)
+      - [Lung](#lung)
+      - [Prostate](#prostate)
+    + [Datasets](#datasets)
+      - [Breast](#breast-1)
+      - [Pancreatic](#pancreatic)
+      - [Prostate](#prostate-1)
+  * [Papers](#papers)
+    + [Detection and diagnosis](#detection-and-diagnosis)
+      - [Breast](#breast-2)
+      - [Cervical](#cervical)
+      - [Liver](#liver)
+      - [Lung](#lung-1)
+      - [Mesothelioma](#mesothelioma)
+      - [Nasopharyngeal](#nasopharyngeal)
+      - [Pancreatic](#pancreatic-1)
+      - [Prostate](#prostate-2)
+    + [Prognostics](#prognostics)
+      - [Breast](#breast-3)
+      - [Colorectal](#colorectal)
+      - [Liver](#liver-1)
+      - [Pancreatic](#pancreatic-2)
+    + [Treatment](#treatment)
+      - [Drug design](#drug-design)
+      - [Personalized chemotherapy](#personalized-chemotherapy)
+    + [Presentations](#presentations)
+    + [Other and meta resources](#other-and-meta-resources)
+
 ## Code
 * [Cancer](https://paperswithcode.com/task/cancer) @ Papers With Code
 * [Google Colab](https://colab.research.google.com) - A powerful, free Jupyter notebook environment for researchers that runs on Tesla K80 with support for Keras, Tensorflow, PyTorch, and other neural network frameworks
 
 ### Challenges
 * [CAMELYON17](https://camelyon17.grand-challenge.org) - Automated detection and classification of breast cancer metastases in whole-slide images of histological lymph node sections (2017)
+* [Histopathologic Cancer Detection](https://www.kaggle.com/c/histopathologic-cancer-detection) (2018-2019)
 * [ICIAR Grand Challenge on BreAst Cancer Histology images](https://iciar2018-challenge.grand-challenge.org) (2018)
 * [Multimodal Brain Tumor Segmentation Challenge](https://www.med.upenn.edu/sbia/brats2018.html) - UPenn (2018)
 * [Pancreatic Cancer Survival Prediction](http://miccai.cloudapp.net/competitions/84) - MICCAI (2018)
