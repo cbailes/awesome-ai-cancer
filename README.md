@@ -56,6 +56,7 @@ Thoughts? Suggestions? contact@craigbailes.com
 * [ProstateCancer.ai](http://prostatecancer.ai) - An open-source web-application developed on the Tesseract-Medical Imaging platform designed to assist radiologists with a second opinion while simultaneously providing a standard image viewing and reporting scheme
 * [sahirbhatnagar/prostate](https://github.com/sahirbhatnagar/prostate) - Life expectancy tool for curative prostate cancer patients using Shiny app for R
 * [Tesseract-MI/prostatecancer.ai](https://github.com/Tesseract-MI/prostatecancer.ai) - An OHIF-based, zero-footprint DICOMweb medical image viewer that utilizes AI to identify clinically significant prostate cancer
+* [thom1178/Prostate-Cancer-Capsule](https://github.com/thom1178/Prostate-Cancer-Capsule) - [[Paper](https://github.com/thom1178/Prostate-Cancer-Capsule/blob/master/ProstateCancer.pdf)] - A logistic regression model to classify the capsule penetration of a tumor
 
 ### Datasets
 * [Cancer Data Access System](https://biometry.nci.nih.gov/cdas/) @ National Cancer Institute
