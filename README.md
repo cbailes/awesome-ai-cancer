@@ -56,7 +56,7 @@ Open access: all rights granted for use and re-use of any kind, by anyone, at no
 * [zizhaozhang/nmi-wsi-diagnosis](https://github.com/zizhaozhang/nmi-wsi-diagnosis) - Pathologist-level interpretable whole-slide cancer diagnosis with deep learning
 * [mark-watson/cancer-deep-learning-model](https://github.com/mark-watson/cancer-deep-learning-model) - Keras deep Learning neural network model for University of Wisconsin Cancer data that uses the Integrated Variants library to explain predictions made by a trained model with 97% accuracy
 * [prasadseemakurthi/Deep-Neural-Networks-HealthCare](https://github.com/prasadseemakurthi/Deep-Neural-Networks-HealthCare/tree/master/Project%202%20--%20SurvNet%20--%20%20Cancer%20Clinical%20Outcomes%20Predictor) - Practical deep learning repository for predicting cancer clinical outcomes
-* [MIC-DKFZ/nnunet](https://github.com/MIC-DKFZ/nnunet) - [[Paper](https://arxiv.org/abs/1904.08128)] - nnU-Net is a framework designed for medical image segmentation. Given a new that includes training cases, nnU-Net will automatically take care of the entire experimental pipeline using a U-Net architecture
+* [MIC-DKFZ/nnunet](https://github.com/MIC-DKFZ/nnunet) - [[Paper](https://arxiv.org/abs/1904.08128)] - A framework designed for medical image segmentation that, when given a new dataset that includes training cases, will automatically take care of the entire experimental pipeline using a U-Net architecture
 
 #### Brain
 * [jenspetersen/probabilistic-unet](https://github.com/jenspetersen/probabilistic-unet) - [[Paper](https://arxiv.org/abs/1907.04064v1)] - A PyTorch implementation of the Probabilistic U-Net, applied to probabilistic glioma growth
