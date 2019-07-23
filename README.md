@@ -12,6 +12,7 @@ Open access: all rights granted for use and re-use of any kind, by anyone, at no
   + [Repositories](#repositories)
     - [Brain](#brain)
     - [Breast](#breast)
+    - [Esophageal](#esophageal)
     - [Lung](#lung)
     - [Prostate](#prostate)
   + [Datasets](#datasets)
@@ -23,6 +24,7 @@ Open access: all rights granted for use and re-use of any kind, by anyone, at no
     - [Brain](#brain-1)
     - [Breast](#breast-2)
     - [Cervical](#cervical)
+    - [Esophageal](#esophageal-1)
     - [Liver](#liver)
     - [Lung](#lung-1)
     - [Mesothelioma](#mesothelioma)
@@ -38,6 +40,7 @@ Open access: all rights granted for use and re-use of any kind, by anyone, at no
   + [Treatment](#treatment)
     - [Drug design](#drug-design)
     - [Personalized chemotherapy](#personalized-chemotherapy)
+* [See also](#see-also)
 * [Presentations](#presentations)
 * [Other and meta resources](#other-and-meta-resources)
 
@@ -84,6 +87,9 @@ Open access: all rights granted for use and re-use of any kind, by anyone, at no
 * [vkasojhaa/Clinical-Decision-Support-using-Machine-Learning](https://github.com/vkasojhaa/Clinical-Decision-Support-using-Machine-Learning) - Predicting the Stage of Breast Cancer - M (Malignant) and B (Benign) using different Machine learning models and comparing their performance
 * [Wigder/inns](https://github.com/Wigder/inns) - An experiment using neural networks to predict obesity-related breast cancer over a small dataset of blood samples
 * [YogiOnBioinformatics/Bioimaging-Informatics-Machine-Learning-for-Cancerous-Breast-Cell-Detection](https://github.com/YogiOnBioinformatics/Bioimaging-Informatics-Machine-Learning-for-Cancerous-Breast-Cell-Detection) - Evaluation of Automated Breast Density Segmentation Software on Segmenting Digital Mammograms Acquired at Magee-Womens Hospital
+
+#### Esophageal
+* [alexislechat/Screening-and-Diagnosis-of-esophageal-cancer-from-in-vivo-microscopy-images](https://github.com/alexislechat/Screening-and-Diagnosis-of-esophageal-cancer-from-in-vivo-microscopy-images) - A simple, multi-class image classifier for esophogeal cancer 
 
 #### Lung
 * [ncoudray/DeepPATH](https://github.com/ncoudray/DeepPATH) - Classification of Lung cancer slide images using deep-learning
@@ -146,7 +152,7 @@ Open access: all rights granted for use and re-use of any kind, by anyone, at no
 #### Cervical
 * [Intelligent Inverse Treatment Planning via Deep Reinforcement Learning, a Proof-of-Principle Study in High Dose-rate Brachytherapy for Cervical Cancer](https://arxiv.org/pdf/1811.10102.pdf) - Chenyang Shen, Yesenia Gonzalez, Peter Klages, Nan Qin, Hyunuk Jung, Liyuan Chen, Dan Nguyen, Steve B. Jiang, Xun Jia (2019)
 
-#### Esophogeal
+#### Esophageal
 * [Diagnostic outcomes of esophageal cancer by artificial intelligence using convolutional neural networks](https://www.sciencedirect.com/science/article/pii/S0016510718329262) - Yoshimasa Horie, Toshiyuki Yoshio, Kazuharu Aoyama, Shoichi Yoshimizu, Yusuke Horiuchi, Akiyoshi Ishiyama, Toshiaki Hirasawa, Tomohiro Tsuchida, Tsuyoshi Ozawa, Soichiro Ishihara, Youichi Kumagai, Mitsuhiro Fujishiro, Iruru Maetani, Junko Fujisaki, Tomohiro Tada (2018)
 
 #### Liver
