@@ -166,6 +166,7 @@ Open access: all rights granted for use and re-use of any kind, by anyone, at no
 
 #### Prostate
 * [Automated Gleason grading of prostate cancer tissue microarrays via deep learning](https://www.nature.com/articles/s41598-018-30535-1) - [[Dataset]([Arvaniti prostate cancer TMA dataset](https://doi.org/10.7910/DVN/OCYCMP)] - Eirini Arvaniti, Kim S. Fricker, Michael Moret, Niels Rupp, Thomas Hermanns, Christian Fankhauser, Norbert Wey, Peter J. Wild, Jan H. Rüschoff, Manfred Claassen (2018)
+* [Comparison of Artificial Intelligence Techniques to Evaluate Performance of a Classifier for Automatic Grading of Prostate Cancer From Digitized Histopathologic Images](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2727273) - Guy Nir, Davood Karimi, S. Larry Goldenberg, Ladan Fazli, Brian F. Skinnider, Peyman Tavassoli, Dmitry Turbin, Carlos F. Villamil, Gang Wang, Darby J. S. Thompson, Peter C. Black, Septimiu E. Salcudean (2019)
 
 ### Prognostics
 * [Machine learning applications in cancer prognosis and prediction](https://www.sciencedirect.com/science/article/pii/S2001037014000464) - Konstantina Kourou, Themis P. Exarchos, Konstantinos P. Exarchos, Michalis V. Karamouzis, Dimitrios I. Fotiadis (2015)
