@@ -10,6 +10,7 @@ Open access: all rights granted for use and re-use of any kind, by anyone, at no
 * [Code](#code)
   + [Challenges](#challenges)
   + [Repositories](#repositories)
+    - [Brain](#brain)
     - [Breast](#breast)
     - [Lung](#lung)
     - [Prostate](#prostate)
@@ -19,6 +20,7 @@ Open access: all rights granted for use and re-use of any kind, by anyone, at no
     - [Prostate](#prostate-1)
 * [Papers](#papers)
   + [Detection and diagnosis](#detection-and-diagnosis)
+    - [Brain](#brain-1)
     - [Breast](#breast-2)
     - [Cervical](#cervical)
     - [Liver](#liver)
@@ -54,6 +56,9 @@ Open access: all rights granted for use and re-use of any kind, by anyone, at no
 * [zizhaozhang/nmi-wsi-diagnosis](https://github.com/zizhaozhang/nmi-wsi-diagnosis) - Pathologist-level interpretable whole-slide cancer diagnosis with deep learning
 * [mark-watson/cancer-deep-learning-model](https://github.com/mark-watson/cancer-deep-learning-model) - Keras deep Learning neural network model for University of Wisconsin Cancer data that uses the Integrated Variants library to explain predictions made by a trained model with 97% accuracy
 * [prasadseemakurthi/Deep-Neural-Networks-HealthCare](https://github.com/prasadseemakurthi/Deep-Neural-Networks-HealthCare/tree/master/Project%202%20--%20SurvNet%20--%20%20Cancer%20Clinical%20Outcomes%20Predictor) - Practical deep learning repository for predicting cancer clinical outcomes
+
+#### Brain
+* [jenspetersen/probabilistic-unet](https://github.com/jenspetersen/probabilistic-unet) - [[Paper](https://arxiv.org/abs/1907.04064v1)] - A PyTorch implementation of the Probabilistic U-Net, applied to probabilistic glioma growth
 
 #### Breast
 * [AFAgarap/wisconsin-breast-cancer](https://github.com/AFAgarap/wisconsin-breast-cancer) - Codebase for *On Breast Cancer Detection: An Application of Machine Learning Algorithms on the Wisconsin Diagnostic Dataset [ICMLSC 2018 / arxiv 1711.07831]*
@@ -122,6 +127,9 @@ Open access: all rights granted for use and re-use of any kind, by anyone, at no
 ### Detection and diagnosis
 * [Deep learning for tumor classification in imaging mass spectrometry](https://academic.oup.com/bioinformatics/article/34/7/1215/4604594) - Jens Behrmann, Christian Etmann, Tobias Boskamp, Rita Casadonte, Jörg Kriegsmann,  Peter Maaβ (2018)
 * [Spatial Organization and Molecular Correlation of Tumor-Infiltrating Lymphocytes Using Deep Learning on Pathology Images](https://www.sciencedirect.com/science/article/pii/S2211124718304479) - JoelSaltz, Rajarsi Gupta, Le Hou, Tahsin Kurc, Pankaj Singh, Vu Nguyen, Dimitris Samaras, Kenneth R. Shroyer, Tianhao Zhao, Rebecca Batiste, John Van Arnam (2018)
+
+#### Brain
+* [Deep Probabilistic Modeling of Glioma Growth](https://arxiv.org/abs/1907.04064v1) - [[Code](https://github.com/jenspetersen/probabilistic-unet)] - Jens Petersen, Paul F. Jäger, Fabian Isensee, Simon A. A. Kohl, Ulf Neuberger, Wolfgang Wick, Jürgen Debus, Sabine Heiland, Martin Bendszus, Philipp Kickingereder, Klaus H. Maier-Hein (2019)
 
 #### Breast
 * [A new features extraction method based on polynomial regression for the assessment of breast lesion Contours](https://www.researchgate.net/publication/282954526_A_new_features_extraction_method_based_on_polynomial_regression_for_the_assessment_of_breast_lesion_Contours) - Spandana Paramkusham, Shivakshit Patri, K.M.M. Rao, B.V.V.S.N.P. Rao (2015)
