@@ -130,6 +130,9 @@ Thoughts? Suggestions? contact@craigbailes.com
 * [Deep LOGISMOS: Deep learning graph-based 3D segmentation of pancreatic tumors on CT scans](https://ieeexplore.ieee.org/abstract/document/8363793/) - Zhihui Guo, Ling Zhang, Le Lu, Mohammadhadi Bagheri, Ronald M. Summers, Milan Sonka, Jianhua Yao (2018)
 * [Deep learning convolutional neural network (CNN) With Gaussian mixture model for predicting pancreatic cancer](https://link.springer.com/article/10.1007%2Fs11042-019-7419-5) - Kaushik Sekaran, P. Chandana, N. Murali Krishna, Seifedine Kadry (2019)
 
+#### Prostate
+* [Automated Gleason grading of prostate cancer tissue microarrays via deep learning](https://www.nature.com/articles/s41598-018-30535-1) - [[Dataset]([Arvaniti prostate cancer TMA dataset](https://doi.org/10.7910/DVN/OCYCMP)] - Eirini Arvaniti, Kim S. Fricker, Michael Moret, Niels Rupp, Thomas Hermanns, Christian Fankhauser, Norbert Wey, Peter J. Wild, Jan H. Rüschoff, Manfred Claassen (2018)
+
 ### Prognostics
 * [Machine learning applications in cancer prognosis and prediction](https://www.sciencedirect.com/science/article/pii/S2001037014000464) - Konstantina Kourou, Themis P. Exarchos, Konstantinos P. Exarchos, Michalis V. Karamouzis, Dimitrios I. Fotiadis (2015)
 
