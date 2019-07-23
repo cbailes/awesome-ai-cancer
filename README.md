@@ -89,7 +89,8 @@ Open access: all rights granted for use and re-use of any kind, by anyone, at no
 * [YogiOnBioinformatics/Bioimaging-Informatics-Machine-Learning-for-Cancerous-Breast-Cell-Detection](https://github.com/YogiOnBioinformatics/Bioimaging-Informatics-Machine-Learning-for-Cancerous-Breast-Cell-Detection) - Evaluation of Automated Breast Density Segmentation Software on Segmenting Digital Mammograms Acquired at Magee-Womens Hospital
 
 #### Esophageal
-* [alexislechat/Screening-and-Diagnosis-of-esophageal-cancer-from-in-vivo-microscopy-images](https://github.com/alexislechat/Screening-and-Diagnosis-of-esophageal-cancer-from-in-vivo-microscopy-images) - A simple, multi-class image classifier for esophogeal cancer 
+* [agalea91/esoph_linear_model](https://github.com/agalea91/esoph_linear_model) - [[Article](https://galeascience.wordpress.com/2016/05/05/linear-models-for-predicting-esophagus-cancer-likelihood/)] - Linear modeling of an esophageal cancer study
+* [alexislechat/Screening-and-Diagnosis-of-esophageal-cancer-from-in-vivo-microscopy-images](https://github.com/alexislechat/Screening-and-Diagnosis-of-esophageal-cancer-from-in-vivo-microscopy-images) - A simple, multi-class image classifier for esophageal cancer 
 
 #### Lung
 * [ncoudray/DeepPATH](https://github.com/ncoudray/DeepPATH) - Classification of Lung cancer slide images using deep-learning
