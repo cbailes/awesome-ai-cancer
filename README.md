@@ -86,6 +86,7 @@ Open access: all rights granted for use and re-use of any kind, by anyone, at no
 * [eiriniar/gleason_CNN](https://github.com/eiriniar/gleason_CNN) - An attempt to reproduce the results of an earlier paper using a CNN and original TMA dataset
 * [I2Cvb/prostate](https://github.com/I2Cvb/prostate) - Prostate cancer research repository from the Initiative for Collaborative Computer Vision Benchmarking
 * [jameshorine/prostate_cancer](https://github.com/jameshorine/prostate_cancer) - A random forest model for predicting prostate cancer survival
+* [Jin93/PCa-mpMRI](https://github.com/Jin93/PCa-mpMRI) - [[Paper](https://doi.org/10.1002/sim.7810)] - Four models for detecting prostate cancer with multi-parametric MRI utilizing anatomic structure
 * [kkchau/NACEP-Analysis-of-Prostate-Cancer-Cells](https://github.com/kkchau/NACEP-Analysis-of-Prostate-Cancer-Cells) - NACEP Analysis of Tumorigenic prostate epithelial cells
 * [ProstateCancer.ai](http://prostatecancer.ai) - An open-source web-application developed on the Tesseract-Medical Imaging platform designed to assist radiologists with a second opinion while simultaneously providing a standard image viewing and reporting scheme
 * [rycoley/prediction-prostate-surveillance](https://github.com/rycoley/prediction-prostate-surveillance) - [[Paper](https://arxiv.org/pdf/1508.07511.pdf)] - Joint modeling of latent prostate cancer state and observed clinical outcomes for active surveillance of low risk prostate cancer
