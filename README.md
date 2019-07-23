@@ -63,7 +63,7 @@ Open access: all rights granted for use and re-use of any kind, by anyone, at no
 * [jenspetersen/probabilistic-unet](https://github.com/jenspetersen/probabilistic-unet) - [[Paper](https://arxiv.org/abs/1907.04064v1)] - A PyTorch implementation of the Probabilistic U-Net, applied to probabilistic glioma growth
 
 #### Breast
-* [AFAgarap/wisconsin-breast-cancer](https://github.com/AFAgarap/wisconsin-breast-cancer) - Codebase for *On Breast Cancer Detection: An Application of Machine Learning Algorithms on the Wisconsin Diagnostic Dataset [ICMLSC 2018 / arxiv 1711.07831]*
+* [AFAgarap/wisconsin-breast-cancer](https://github.com/AFAgarap/wisconsin-breast-cancer) - Codebase for *On Breast Cancer Detection: An Application of Machine Learning Algorithms on the Wisconsin Diagnostic Dataset [ICMLSC 2018 / arXiv 1711.07831]*
 * [akshaybahadur21/BreastCancer_Classification](https://github.com/akshaybahadur21/BreastCancer_Classification) - Machine learning classifier for cancer tissues
 * [AyeshaShafique/Breast-Cancer-Study](https://github.com/AyeshaShafique/Breast-Cancer-Study) - An experiment comparing the precision of MLP, XGBoost Classifier, Random Forest, Logistic Regression, SVM Linear Kernel, SVM RBF Kernel, KNN, and AdaBoost in classifying breast tumors
 * [bhavaniprasad73/Artificial-Neural-Network](https://github.com/bhavaniprasad73/Artificial-Neural-Network) - [[Paper](https://github.com/bhavaniprasad73/Artificial-Neural-Network/blob/master/Final%20report.pdf) | [Slides](https://github.com/bhavaniprasad73/Artificial-Neural-Network/raw/master/CANCER%20PREDICTION%20USING%20ARTIFICIAL%20NEURAL%20NETWORKS.pptx)] - An artificial neural network (ANN) for the Wisconsin dataset
