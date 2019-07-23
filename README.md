@@ -32,6 +32,7 @@ Open access: all rights granted for use and re-use of any kind, by anyone, at no
     - [Colorectal](#colorectal)
     - [Liver](#liver-1)
     - [Pancreatic](#pancreatic-2)
+    - [Prostate](#prostate-3)
   + [Treatment](#treatment)
     - [Drug design](#drug-design)
     - [Personalized chemotherapy](#personalized-chemotherapy)
@@ -191,6 +192,9 @@ Open access: all rights granted for use and re-use of any kind, by anyone, at no
 
 #### Pancreatic
 * [An Improved Method for Prediction of Cancer Prognosis by Network Learning](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6210393/) - Minseon Kim, Ilhwan Oh, Jaegyoon Ahn (2018)
+
+#### Prostate
+* [Prognosis of prostate cancer by artificial neural networks](https://www.sciencedirect.com/science/article/pii/S095741741000237X) - Ismail Saritas, Ilker Ali Ozkan, Ibrahim Unal Sert (2010)
 
 ### Treatment
 #### Drug design
