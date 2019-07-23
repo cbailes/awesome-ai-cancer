@@ -3,9 +3,9 @@
 
 List of awesome code, papers, and resources for AI/deep learning/machine learning/neural networks applied to oncology.
 
-Thoughts? Suggestions? contact@craigbailes.com
+Open access: all rights granted for use and re-use of any kind, by anyone, at no cost, under your choice of either the free MIT License or Creative Commons CC-BY International Public License.
 
-© 2019 Craig Bailes ([@cbailes](https://github.com/cbailes)), open access and full reuse under the MIT License
+© 2019 Craig Bailes ([@cbailes](https://github.com/cbailes) | [contact@craigbailes.com](mailto:contact@craigbailes.com))
 
 ## Index
 * [Code](#code)
