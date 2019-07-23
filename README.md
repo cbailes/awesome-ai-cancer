@@ -105,6 +105,7 @@ Open access: all rights granted for use and re-use of any kind, by anyone, at no
 ### Datasets
 * [Cancer Data Access System](https://biometry.nci.nih.gov/cdas/) @ National Cancer Institute
 * [Clinical, Genomic, Imaging Data & Specimens](https://cbttc.org/research/specimendata/) @ Children’s Brain Tumor Tissue Consortium
+* [Genomics of Drug Sensitivity in Cancer](https://www.cancerrxgene.org) - 1000 human cancer cell lines characterized and screened with 100s of compounds
 
 #### Breast
 * [BACH dataset](https://iciar2018-challenge.grand-challenge.org/Dataset/) - Hematoxylin and eosin (H&E) stained breast histology microscopy and whole-slide images from the ICIAR 2018 Grand Challenge on BreAst Cancer Histology
@@ -144,6 +145,9 @@ Open access: all rights granted for use and re-use of any kind, by anyone, at no
 
 #### Cervical
 * [Intelligent Inverse Treatment Planning via Deep Reinforcement Learning, a Proof-of-Principle Study in High Dose-rate Brachytherapy for Cervical Cancer](https://arxiv.org/pdf/1811.10102.pdf) - Chenyang Shen, Yesenia Gonzalez, Peter Klages, Nan Qin, Hyunuk Jung, Liyuan Chen, Dan Nguyen, Steve B. Jiang, Xun Jia (2019)
+
+#### Esophogeal
+* [Diagnostic outcomes of esophageal cancer by artificial intelligence using convolutional neural networks](https://www.sciencedirect.com/science/article/pii/S0016510718329262) - Yoshimasa Horie, Toshiyuki Yoshio, Kazuharu Aoyama, Shoichi Yoshimizu, Yusuke Horiuchi, Akiyoshi Ishiyama, Toshiaki Hirasawa, Tomohiro Tsuchida, Tsuyoshi Ozawa, Soichiro Ishihara, Youichi Kumagai, Mitsuhiro Fujishiro, Iruru Maetani, Junko Fujisaki, Tomohiro Tada (2018)
 
 #### Liver
 * [Deep learning based classification of focal liver lesions with contrast-enhanced ultrasound](https://iciar2018-challenge.grand-challenge.org/media/evaluation-supplementary/176/16918/dc233d3b-ffe1-49c7-bacd-17beb04c10f6/Deep_learning_ba_w8Kpz96.pdf) - Kaizhi Wu, Xi Chen, Mingyue Ding (2014)
@@ -222,6 +226,9 @@ Open access: all rights granted for use and re-use of any kind, by anyone, at no
 ## Presentations
 * [Deep Learning with Big Health Data for Early Cancer Detection and Prevention](http://chapter.aapm.org/orv/meetings/fall2017/5-Deep%20Learning%20with%20Big%20Health%20Data%20for%20Early%20Cancer%20Detection%20and%20Prevention.pdf) - Jun Deng, Yale (2017)
 * [Automatic Prostate Cancer Classification using Deep Learning](http://www2.maths.lth.se/matematiklth/personal/kalle/deeplearning2018/LCCC_DeepLearning_IA.pdf) - Ida Arvidsson, Lund University, Sweden (2018)
+
+## See also
+* [HarmonizomePythonScripts](https://github.com/MaayanLab/HarmonizomePythonScripts) - A collection of 116 datasets, 41 resources, and scripts that include some worthwhile in cancer research
 
 ## Other and meta resources
 * [Machine Learning Is The Future Of Cancer Prediction](https://towardsdatascience.com/machine-learning-is-the-future-of-cancer-prediction-e4d28e7e6dfa) - Sohail Sayed (2018)
