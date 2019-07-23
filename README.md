@@ -51,6 +51,7 @@ Thoughts? Suggestions? contact@craigbailes.com
 
 #### Prostate
 * [bikramb98/Prostate-cancer-prediction](https://github.com/bikramb98/Prostate-cancer-prediction) - A simple prostate cancer prediction model built using KNN on a small dataset
+* [eiriniar/gleason_CNN](https://github.com/eiriniar/gleason_CNN) - An attempt to reproduce the results of an earlier paper using a CNN and original TMA dataset
 * [I2Cvb/prostate](https://github.com/I2Cvb/prostate) - Prostate cancer research repository from the Initiative for Collaborative Computer Vision Benchmarking
 * [jameshorine/prostate_cancer](https://github.com/jameshorine/prostate_cancer) - A random forest model for predicting prostate cancer survival
 * [kkchau/NACEP-Analysis-of-Prostate-Cancer-Cells](https://github.com/kkchau/NACEP-Analysis-of-Prostate-Cancer-Cells) - NACEP Analysis of Tumorigenic prostate epithelial cells
