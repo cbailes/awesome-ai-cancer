@@ -90,7 +90,8 @@ Open access: all rights granted for use and re-use of any kind, by anyone, at no
 
 #### Esophageal
 * [agalea91/esoph_linear_model](https://github.com/agalea91/esoph_linear_model) - [[Article](https://galeascience.wordpress.com/2016/05/05/linear-models-for-predicting-esophagus-cancer-likelihood/)] - Modeling of an esophageal cancer study in iPython
-* [alexislechat/Screening-and-Diagnosis-of-esophageal-cancer-from-in-vivo-microscopy-images](https://github.com/alexislechat/Screening-and-Diagnosis-of-esophageal-cancer-from-in-vivo-microscopy-images) - A simple, multi-class image classifier for esophageal cancer 
+* [alexislechat/Screening-and-Diagnosis-of-esophageal-cancer-from-in-vivo-microscopy-images](https://github.com/alexislechat/Screening-and-Diagnosis-of-esophageal-cancer-from-in-vivo-microscopy-images) - A simple, multi-class image classifier for esophageal cancer
+* [justinvyu/siemens-2017](https://github.com/justinvyu/siemens-2017) - Histopathology analysis for esophageal cancer and the automatic classification of tumors / cancer progression
 
 #### Lung
 * [ncoudray/DeepPATH](https://github.com/ncoudray/DeepPATH) - Classification of Lung cancer slide images using deep-learning
