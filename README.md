@@ -68,7 +68,7 @@ Thoughts? Suggestions? contact@craigbailes.com
 * [BACH dataset](https://iciar2018-challenge.grand-challenge.org/Dataset/) - Hematoxylin and eosin (H&E) stained breast histology microscopy and whole-slide images from the ICIAR 2018 Grand Challenge on BreAst Cancer Histology
 * [Bioimaging Challenge 2015 Breast Histology Dataset](https://rdm.inesctec.pt/dataset/nis-2017-003) - Breast histology images from four classes: normal, benign, in situ carconima and invasive carcinoma
 * [Breast Cancer Histopathological Image Classification Database (BreakHis)](https://web.inf.ufpr.br/vri/databases/breast-cancer-histopathological-database-breakhis/) - Laboratório Visão Robótica e Imagem, Prevenção & Diagnose Lab
-* [Breast Cancer Wisconsin (Diagnostic) Data Set](https://www.kaggle.com/uciml/breast-cancer-wisconsin-data) - [[Kernels](https://www.kaggle.com/uciml/breast-cancer-wisconsin-data/kernels)]
+* [Breast Cancer Wisconsin (Diagnostic) Data Set](https://www.kaggle.com/uciml/breast-cancer-wisconsin-data) - [[Kernels](https://www.kaggle.com/uciml/breast-cancer-wisconsin-data/kernels) | [Discussion](https://www.kaggle.com/uciml/breast-cancer-wisconsin-data/discussion)]
 * [CAMELYON16 dataset](https://camelyon16.grand-challenge.org/Data/) - 400 whole-slide images (WSIs) of sentinel lymph node from two independent datasets collected in Radboud University Medical Center and University Medical Center Utrecht
 * [CAMELYON17 dataset](https://camelyon17.grand-challenge.org/Data/) - 1000 whole-slide images (WSI) of hematoxylin and eosin (H&E) stained lymph node sections from patients at 5 hospitals in the Netherlands
 * [MIAS Mammography](https://www.kaggle.com/kmader/mias-mammography)
