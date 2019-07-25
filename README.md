@@ -14,6 +14,7 @@ Open access: all rights granted for use and re-use of any kind, by anyone, at no
     - [Breast](#breast)
     - [Esophageal](#esophageal)
     - [Lung](#lung)
+    - [Oral](#oral)
     - [Prostate](#prostate)
   + [Datasets](#datasets)
     - [Breast](#breast-1)
@@ -29,6 +30,7 @@ Open access: all rights granted for use and re-use of any kind, by anyone, at no
     - [Lung](#lung-1)
     - [Mesothelioma](#mesothelioma)
     - [Nasopharyngeal](#nasopharyngeal)
+    - [Oral](#oral-1)
     - [Pancreatic](#pancreatic-1)
     - [Prostate](#prostate-2)
   + [Prognostics](#prognostics)
@@ -98,6 +100,9 @@ Open access: all rights granted for use and re-use of any kind, by anyone, at no
 #### Lung
 * [ncoudray/DeepPATH](https://github.com/ncoudray/DeepPATH) - Classification of Lung cancer slide images using deep-learning
 * [AiAiHealthcare/ProjectAiAi](https://github.com/AiAiHealthcare/ProjectAiAi) - A project with the slated goal of building an FDA-approved, open source deep learning system for detecting lung cancer
+
+#### Oral
+* [smg478/OralCancerDetectionOnCTImages](https://github.com/smg478/OralCancerDetectionOnCTImages) - [[Paper](https://arxiv.org/abs/1611.09769)] - C++ implementation of oral cancer detection on CT images with a neural network classifier
 
 #### Prostate
 * [bikramb98/Prostate-cancer-prediction](https://github.com/bikramb98/Prostate-cancer-prediction) - A simple prostate cancer prediction model built using KNN on a small dataset
@@ -190,6 +195,9 @@ Open access: all rights granted for use and re-use of any kind, by anyone, at no
 
 #### Nasopharyngeal
 * [Deep Deconvolutional Neural Network for Target Segmentation of Nasopharyngeal Cancer in Planning Computed Tomography Images](https://www.frontiersin.org/articles/10.3389/fonc.2017.00315/full) - Kuo Men, Xinyuan Chen, Ye Zhang, Tao Zhang, Jianrong Dai, Junlin Yi, Yexiong Li (2017)
+
+#### Oral
+* [Computer Aided Detection of Oral Lesions on CT Images](https://arxiv.org/abs/1611.09769) - [[Code](https://github.com/smg478/OralCancerDetectionOnCTImages) - Shaikat Galib, Fahima Islam, Muhammad Abir, Hyoung-Koo Lee (2016)
 
 #### Pancreatic
 * [DeepOrgan: Multi-level Deep Convolutional Networks for Automated Pancreas Segmentation](https://link.springer.com/chapter/10.1007/978-3-319-24553-9_68) - Holger R. Roth, Le Lu, Amal Farag, Hoo-Chang Shin, Jiamin Liu, Evrim B. Turkbey, Ronald M. Summers (2015)
