@@ -197,7 +197,7 @@ Open access: all rights granted for use and re-use of any kind, by anyone, at no
 * [Deep Deconvolutional Neural Network for Target Segmentation of Nasopharyngeal Cancer in Planning Computed Tomography Images](https://www.frontiersin.org/articles/10.3389/fonc.2017.00315/full) - Kuo Men, Xinyuan Chen, Ye Zhang, Tao Zhang, Jianrong Dai, Junlin Yi, Yexiong Li (2017)
 
 #### Oral
-* [Computer Aided Detection of Oral Lesions on CT Images](https://arxiv.org/abs/1611.09769) - [[Code](https://github.com/smg478/OralCancerDetectionOnCTImages) - Shaikat Galib, Fahima Islam, Muhammad Abir, Hyoung-Koo Lee (2016)
+* [Computer Aided Detection of Oral Lesions on CT Images](https://arxiv.org/abs/1611.09769) - [[Code](https://github.com/smg478/OralCancerDetectionOnCTImages)] - Shaikat Galib, Fahima Islam, Muhammad Abir, Hyoung-Koo Lee (2016)
 
 #### Pancreatic
 * [DeepOrgan: Multi-level Deep Convolutional Networks for Automated Pancreas Segmentation](https://link.springer.com/chapter/10.1007/978-3-319-24553-9_68) - Holger R. Roth, Le Lu, Amal Farag, Hoo-Chang Shin, Jiamin Liu, Evrim B. Turkbey, Ronald M. Summers (2015)
