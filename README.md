@@ -222,6 +222,7 @@ Open access: all rights granted for use and re-use of any kind, by anyone, at no
 
 ### Prognostics
 * [Machine learning applications in cancer prognosis and prediction](https://www.sciencedirect.com/science/article/pii/S2001037014000464) - Konstantina Kourou, Themis P. Exarchos, Konstantinos P. Exarchos, Michalis V. Karamouzis, Dimitrios I. Fotiadis (2015)
+* [Predicting clinical outcomes from large scale cancer genomic profiles with deep survival models](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5601479/) - Safoora Yousefi, Fatemeh Amrollahi, Mohamed Amgad, Coco Dong, Joshua E. Lewis, Congzheng Song, David A Gutman, Sameer H. Halani, Jose Enrique Velazquez Vega, Daniel J Brat, Lee AD Cooper (2017)
 
 #### Breast
 * [Machine Learning with Applications in Breast Cancer Diagnosis and Prognosis](https://www.researchgate.net/publication/325064884_Machine_Learning_with_Applications_in_Breast_Cancer_Diagnosis_and_Prognosis) - Wenbin Yue, Zidong Wang, Hongwei Chen, Annette Margaret Payne, Xiaohui Liu (2018)
