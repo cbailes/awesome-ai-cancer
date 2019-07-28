@@ -266,6 +266,7 @@ Open access: all rights granted for use and re-use of any kind, by anyone, at no
 ## Other and meta resources
 * [Machine Learning Is The Future Of Cancer Prediction](https://towardsdatascience.com/machine-learning-is-the-future-of-cancer-prediction-e4d28e7e6dfa) - Sohail Sayed (2018)
 * [Google Deep Learning Tool 99% Accurate at Breast Cancer Detection](https://healthitanalytics.com/news/google-deep-learning-tool-99-accurate-at-breast-cancer-detection) - Jessica Kent (2018)
+* [New Open-Source AI Machine Learning Tools to Fight Cancer](https://www.psychologytoday.com/us/blog/the-future-brain/201907/new-open-source-ai-machine-learning-tools-fight-cancer) - Cami Rosso (2019)
 * [Deep Learning in Oncology – Applications in Fighting Cancer](https://emerj.com/ai-sector-overviews/deep-learning-in-oncology/) - Abder-Rahman Ali (2019)
 * [Google Develops Deep Learning Tool to Enhance Lung Cancer Detection](https://healthitanalytics.com/news/google-develops-deep-learning-tool-to-enhance-lung-cancer-detection) - Jessica Kent (2019)
 * [Histopathological Cancer Detection with Deep Neural Networks](https://towardsdatascience.com/histopathological-cancer-detection-with-deep-neural-networks-3399be879671) - Antonio de Perio (2019)
