@@ -145,6 +145,9 @@ Open access: all rights granted for use and re-use of any kind, by anyone, at no
 * [Architectures and accuracy of artificial neural network for disease classification from omics data](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6399893/) - Hui Yu, David C. Samuels, Ying-yong Zhao, Yan Guo (2019)
 * [Artificial intelligence in cancer imaging: Clinical challenges and applications](https://onlinelibrary.wiley.com/doi/full/10.3322/caac.21552) - Wenya Linda Bi, Ahmed Hosny, Matthew B. Schabath, Maryellen L. Giger, Nicolai J. Birkbak, Alireza Mehrtash, Tavis Allison, Omar Arnaout, Christopher Abbosh, Ian F. Dunn, Raymond H. Mak, Rulla M. Tamimi, Clare M. Tempany, Charles Swanton, Udo Hoffmann, Lawrence H. Schwartz, Robert J. Gillies, Raymond Y. Huang, Hugo J. W. L. Aerts (2019)
 
+### Meta reviews
+* [Artificial Intelligence in Pathology](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6344799/) - Hye Yoon Chang, Chan Kwon Jung, Junwoo Isaac Woo, Sanghun Lee, Joonyoung Cho, Sun Woo Kim, Tae-Yeong Kwak (2018)
+
 ### Detection and diagnosis
 * [Deep learning for tumor classification in imaging mass spectrometry](https://academic.oup.com/bioinformatics/article/34/7/1215/4604594) - Jens Behrmann, Christian Etmann, Tobias Boskamp, Rita Casadonte, Jörg Kriegsmann,  Peter Maaβ (2018)
 * [Spatial Organization and Molecular Correlation of Tumor-Infiltrating Lymphocytes Using Deep Learning on Pathology Images](https://www.sciencedirect.com/science/article/pii/S2211124718304479) - JoelSaltz, Rajarsi Gupta, Le Hou, Tahsin Kurc, Pankaj Singh, Vu Nguyen, Dimitris Samaras, Kenneth R. Shroyer, Tianhao Zhao, Rebecca Batiste, John Van Arnam (2018)
