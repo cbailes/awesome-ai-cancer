@@ -48,7 +48,6 @@ Open access: all rights granted for use and re-use of any kind, by anyone, at no
       - [Head and neck](#head-and-neck)
       - [Pelvic](#pelvic)
       - [Prostate](#prostate-4)
-* [See also](#see-also)
 * [Presentations](#presentations)
 * [Other and meta resources](#other-and-meta-resources)
 
