@@ -44,6 +44,9 @@ Open access: all rights granted for use and re-use of any kind, by anyone, at no
     - [Drug design](#drug-design)
     - [Personalized chemotherapy](#personalized-chemotherapy)
     - [Radiation therapy](#radiation-therapy)
+      - [Head and neck](#head-and-neck)
+      - [Pelvic](#pelvic)
+      - [Prostate](#prostate-4)
 * [See also](#see-also)
 * [Presentations](#presentations)
 * [Other and meta resources](#other-and-meta-resources)
@@ -189,7 +192,7 @@ Open access: all rights granted for use and re-use of any kind, by anyone, at no
 * [A Joint Deep Learning Approach for Automated Liver and Tumor Segmentation](https://arxiv.org/abs/1902.07971) - Nadja Gruber, Stephan Antholzer, Werner Jaschke, Christian Kremser, Markus Haltmeier (2019)
 
 #### Lung
-* [Deep Reinforcement Learning for Automated Radiation Adaptation in Lung Cancer](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5734677/) - Huan-Hsin Tseng, Yi Luo, Sunan Cui, Jen-Tzung Chien, Randall K. Ten Haken, Issam El Naqa (2017)
+* [Deep reinforcement learning for automated radiation adaptation in lung cancer](https://doi.org/10.1002/mp.12625) - Huan‐Hsin Tseng, Yi Luo, Sunan Cui, Jen‐Tzung Chien, Randall K. Ten Haken, Issam El Naqa (2017)
 * [Lung Nodule Detection via Deep Reinforcement Learning](https://www.frontiersin.org/articles/10.3389/fonc.2018.00108/full) - Issa Ali, Gregory R. Hart, Gowthaman Gunabushanam, Ying Liang, Wazir Muhammad, Bradley Nartowt, Michael Kane, Xiaomei Ma, Jun Deng (2018)
 * [Deep reinforcement learning with its application for lung cancer detection in medical Internet of Things](https://www.sciencedirect.com/science/article/pii/S0167739X19303772) - Zhuo Liua, Chenhui Yaob, Hang Yuc, Taihua Wua (2019)
 * [Automated Pulmonary Nodule Classification in Computed Tomography Images Using a Deep Convolutional Neural Network Trained by Generative Adversarial Networks](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6334309/) - Yuya Onishi, Atsushi Teramoto, Masakazu Tsujimoto, Tetsuya Tsukamoto, Kuniaki Saito, Hiroshi Toyama, Kazuyoshi Imaizumi, Hiroshi Fujita (2019)
@@ -257,7 +260,14 @@ Open access: all rights granted for use and re-use of any kind, by anyone, at no
 
 #### Radiation therapy
 * [Automated Treatment Planning in Radiation Therapy using Generative Adversarial Networks](https://arxiv.org/pdf/1807.06489.pdf) - Rafid Mahmood, Aarron Babier, Andrea McNiven, Adam Diamant, Timothy C. Y. Chan (2018)
+
+##### Head and neck
+* [Three-Dimensional Radiotherapy Dose Prediction on Head and Neck Cancer Patients with a Hierarchically Densely Connected U-net Deep Learning Architecture](https://arxiv.org/abs/1805.10397) - Dan Nguyen, Xun Jia, David Sher, Mu-Han Lin, Zohaib Iqbal, Hui Liu, Steve Jiang (2019)
+
+##### Pelvic
 * [Dose evaluation of fast synthetic-CT generation using a generative adversarial network for general pelvis MR-only radiotherapy](https://pdfs.semanticscholar.org/b185/c48ec9445fa411505049366d73fd9895049a.pdf) - Matteo Maspero, Mark H. F. Savenije, Anna M. Dinkla, Peter R. Seevinck, Martijn P. W. Intven, Ina M. Jurgenliemk-Schulz, Linda G. W. Kerkmeijer, Cornelis A. T. van den Berg (2018)
+
+##### Prostate
 * [Adversarial optimization for joint registration and segmentation in prostate CT radiotherapy](https://arxiv.org/abs/1906.12223) - Mohamed S. Elmahdy, Jelmer M. Wolterink, Hessam Sokooti, Ivana Išgum, Marius Staring (2019)
 
 ## Presentations
