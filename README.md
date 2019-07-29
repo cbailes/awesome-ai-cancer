@@ -125,9 +125,6 @@ Open access: all rights granted for use and re-use of any kind, by anyone, at no
 * [Tesseract-MI/prostatecancer.ai](https://github.com/Tesseract-MI/prostatecancer.ai) - An OHIF-based, zero-footprint DICOMweb medical image viewer that utilizes AI to identify clinically significant prostate cancer
 * [thom1178/Prostate-Cancer-Capsule](https://github.com/thom1178/Prostate-Cancer-Capsule) - [[Paper](https://github.com/thom1178/Prostate-Cancer-Capsule/blob/master/ProstateCancer.pdf)] - A logistic regression model to classify the capsule penetration of a tumor
 
-#### Stomach
-* [Accurate Gastric Cancer Segmentation in Digital Pathology Images Using Deformable Convolution and Multi-Scale Embedding Networks](https://ieeexplore.ieee.org/document/8721664) - Muyi Sun, Guanhong Zhang, Hao Dang, Xingqun Qi, Xiaoguang Zhou, Qing Chang (2019)
-
 ### Datasets
 * [The Cancer Genome Atlas Program](https://www.cancer.gov/about-nci/organization/ccg/research/structural-genomics/tcga) - Over 2.5 petabytes of genomic, epigenomic, transcriptomic, and proteomic data at Cancer.gov
 * [Cancer Data Access System](https://biometry.nci.nih.gov/cdas/) @ National Cancer Institute
@@ -233,6 +230,9 @@ Open access: all rights granted for use and re-use of any kind, by anyone, at no
 * [Computational histological staining and destaining of prostate core biopsy RGB images with generative adversarial neural networks](https://www.media.mit.edu/publications/computational-histological-staining-and-destaining-of-prostate-core-biopsy-rgb-images-with-generative-adversarial-neural-networks/) - Aman Rana, Gregory Yauney, Alarice Lowe, Pratik Shah (2018)
 * [Comparison of Artificial Intelligence Techniques to Evaluate Performance of a Classifier for Automatic Grading of Prostate Cancer From Digitized Histopathologic Images](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2727273) - Guy Nir, Davood Karimi, S. Larry Goldenberg, Ladan Fazli, Brian F. Skinnider, Peyman Tavassoli, Dmitry Turbin, Carlos F. Villamil, Gang Wang, Darby J. S. Thompson, Peter C. Black, Septimiu E. Salcudean (2019)
 * [Improving Prostate Cancer Detection with Breast Histopathology Images](https://arxiv.org/abs/1903.05769) - Umair Akhtar Hasan Khan, Carolin Stürenberg, Oguzhan Gencoglu, Kevin Sandeman, Timo Heikkinen, Antti Rannikko, Tuomas Mirtti (2019)
+
+#### Stomach
+* [Accurate Gastric Cancer Segmentation in Digital Pathology Images Using Deformable Convolution and Multi-Scale Embedding Networks](https://ieeexplore.ieee.org/document/8721664) - Muyi Sun, Guanhong Zhang, Hao Dang, Xingqun Qi, Xiaoguang Zhou, Qing Chang (2019)
 
 ### Prognostics
 * [Machine learning applications in cancer prognosis and prediction](https://www.sciencedirect.com/science/article/pii/S2001037014000464) - Konstantina Kourou, Themis P. Exarchos, Konstantinos P. Exarchos, Michalis V. Karamouzis, Dimitrios I. Fotiadis (2015)
