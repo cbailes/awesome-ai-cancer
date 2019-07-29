@@ -44,6 +44,7 @@ Open access: all rights granted for use and re-use of any kind, by anyone, at no
     - [Drug design](#drug-design)
     - [Personalized chemotherapy](#personalized-chemotherapy)
     - [Radiation therapy](#radiation-therapy)
+      - [Cervical[(#cervical-2)
       - [Head and neck](#head-and-neck)
       - [Pelvic](#pelvic)
       - [Prostate](#prostate-4)
@@ -260,6 +261,9 @@ Open access: all rights granted for use and re-use of any kind, by anyone, at no
 
 #### Radiation therapy
 * [Automated Treatment Planning in Radiation Therapy using Generative Adversarial Networks](https://arxiv.org/pdf/1807.06489.pdf) - Rafid Mahmood, Aarron Babier, Andrea McNiven, Adam Diamant, Timothy C. Y. Chan (2018)
+
+##### Cervical
+* [Intelligent Inverse Treatment Planning via Deep Reinforcement Learning, a Proof-of-Principle Study in High Dose-rate Brachytherapy for Cervical Cancer](https://www.researchgate.net/publication/329206758_Intelligent_Inverse_Treatment_Planning_via_Deep_Reinforcement_Learning_a_Proof-of-Principle_Study_in_High_Dose-rate_Brachytherapy_for_Cervical_Cancer) - Chenyang Shen, Yesenia Gonzalez, Peter Klages, Nan Qin, Hyunuk Jung, Liyuan Chen, Dan Nguyen, Steve B. Jiang, Xun Jia (2018)
 
 ##### Head and neck
 * [Three-Dimensional Radiotherapy Dose Prediction on Head and Neck Cancer Patients with a Hierarchically Densely Connected U-net Deep Learning Architecture](https://arxiv.org/abs/1805.10397) - Dan Nguyen, Xun Jia, David Sher, Mu-Han Lin, Zohaib Iqbal, Hui Liu, Steve Jiang (2019)
