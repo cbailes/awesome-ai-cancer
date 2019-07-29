@@ -271,6 +271,7 @@ Open access: all rights granted for use and re-use of any kind, by anyone, at no
 * [Intelligent Inverse Treatment Planning via Deep Reinforcement Learning, a Proof-of-Principle Study in High Dose-rate Brachytherapy for Cervical Cancer](https://www.researchgate.net/publication/329206758_Intelligent_Inverse_Treatment_Planning_via_Deep_Reinforcement_Learning_a_Proof-of-Principle_Study_in_High_Dose-rate_Brachytherapy_for_Cervical_Cancer) - Chenyang Shen, Yesenia Gonzalez, Peter Klages, Nan Qin, Hyunuk Jung, Liyuan Chen, Dan Nguyen, Steve B. Jiang, Xun Jia (2018)
 
 ##### Head and neck
+* [Development of a Novel Deep Learning Algorithm for Autosegmentation of Clinical Tumor Volume and Organs at Risk in Head and Neck Radiation Therapy Planning](https://www.redjournal.org/article/S0360-3016(16)30887-2/fulltext) - Bulat Ibragimov, F Pernuš, P Strojan, L Xing (2016)
 * [Three-Dimensional Radiotherapy Dose Prediction on Head and Neck Cancer Patients with a Hierarchically Densely Connected U-net Deep Learning Architecture](https://arxiv.org/abs/1805.10397) - Dan Nguyen, Xun Jia, David Sher, Mu-Han Lin, Zohaib Iqbal, Hui Liu, Steve Jiang (2019)
 
 ##### Pelvic
