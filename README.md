@@ -207,6 +207,7 @@ Open access: all rights granted for use and re-use of any kind, by anyone, at no
 
 #### Nasopharyngeal
 * [Deep Deconvolutional Neural Network for Target Segmentation of Nasopharyngeal Cancer in Planning Computed Tomography Images](https://www.frontiersin.org/articles/10.3389/fonc.2017.00315/full) - Kuo Men, Xinyuan Chen, Ye Zhang, Tao Zhang, Jianrong Dai, Junlin Yi, Yexiong Li (2017)
+* [Development and validation of an endoscopic images-based deep learning model for detection with nasopharyngeal malignancies](https://cancercommun.biomedcentral.com/articles/10.1186/s40880-018-0325-9) - Chaofeng Li, Bingzhong Jing, Liangru Ke, Bin Li, Weixiong Xia, Caisheng He, Chaonan Qian, Chong Zhao, Haiqiang Mai, Mingyuan Chen, Kajia Cao, Haoyuan Mo, Ling Guo, Qiuyan Chen, Linquan Tang, Wenze Qiu, Yahui Yu, Hu Liang, Xinjun Huang, Guoying Liu, Wangzhong Li, Lin Wang, Rui Sun, Xiong Zou, Shanshan Guo, Peiyu Huang, Donghua Luo, Fang Qiu, Yishan Wu, Yijun Hua, Kuiyuan Liu, Shuhui Lv, Jingjing Miao, Yanqun Xiang, Ying Sun, Xiang Guo, Xing Lv (2018)
 
 #### Oral
 * [Computer Aided Detection of Oral Lesions on CT Images](https://arxiv.org/abs/1611.09769) - [[Code](https://github.com/smg478/OralCancerDetectionOnCTImages)] - Shaikat Galib, Fahima Islam, Muhammad Abir, Hyoung-Koo Lee (2016)
