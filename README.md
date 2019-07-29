@@ -44,7 +44,7 @@ Open access: all rights granted for use and re-use of any kind, by anyone, at no
     - [Drug design](#drug-design)
     - [Personalized chemotherapy](#personalized-chemotherapy)
     - [Radiation therapy](#radiation-therapy)
-      - [Cervical](#cervical-2)
+      - [Cervical](#cervical-1)
       - [Head and neck](#head-and-neck)
       - [Pelvic](#pelvic)
       - [Prostate](#prostate-4)
