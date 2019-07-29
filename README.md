@@ -34,6 +34,7 @@ Open access: all rights granted for use and re-use of any kind, by anyone, at no
     - [Oral](#oral-1)
     - [Pancreatic](#pancreatic-1)
     - [Prostate](#prostate-2)
+    - [Stomach](#stomach)
   + [Prognostics](#prognostics)
     - [Breast](#breast-3)
     - [Colorectal](#colorectal)
@@ -123,6 +124,9 @@ Open access: all rights granted for use and re-use of any kind, by anyone, at no
 * [swiri021/PAM50_Classifier_for_PRCA](https://github.com/swiri021/PAM50_Classifier_for_PRCA) - [[Paper](https://jamanetwork.com/journals/jamaoncology/article-abstract/2626510)] - PAM50 classifier for prostate cancer in Python based on Zhao el al on JAMA for the microarray data
 * [Tesseract-MI/prostatecancer.ai](https://github.com/Tesseract-MI/prostatecancer.ai) - An OHIF-based, zero-footprint DICOMweb medical image viewer that utilizes AI to identify clinically significant prostate cancer
 * [thom1178/Prostate-Cancer-Capsule](https://github.com/thom1178/Prostate-Cancer-Capsule) - [[Paper](https://github.com/thom1178/Prostate-Cancer-Capsule/blob/master/ProstateCancer.pdf)] - A logistic regression model to classify the capsule penetration of a tumor
+
+#### Stomach
+* [Accurate Gastric Cancer Segmentation in Digital Pathology Images Using Deformable Convolution and Multi-Scale Embedding Networks](https://ieeexplore.ieee.org/document/8721664) - Muyi Sun, Guanhong Zhang, Hao Dang, Xingqun Qi, Xiaoguang Zhou, Qing Chang (2019)
 
 ### Datasets
 * [The Cancer Genome Atlas Program](https://www.cancer.gov/about-nci/organization/ccg/research/structural-genomics/tcga) - Over 2.5 petabytes of genomic, epigenomic, transcriptomic, and proteomic data at Cancer.gov
