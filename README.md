@@ -52,6 +52,7 @@ Open access: all rights granted for use and re-use of any kind, by anyone, at no
       - [Head and neck](#head-and-neck)
       - [Pelvic](#pelvic)
       - [Prostate](#prostate-4)
+    - [Surgery](#surgery)
 * [Presentations](#presentations)
 * [Other and meta resources](#other-and-meta-resources)
 
@@ -76,6 +77,7 @@ Open access: all rights granted for use and re-use of any kind, by anyone, at no
 
 #### Brain
 * [jenspetersen/probabilistic-unet](https://github.com/jenspetersen/probabilistic-unet) - [[Paper](https://arxiv.org/abs/1907.04064v1)] - A PyTorch implementation of the Probabilistic U-Net, applied to probabilistic glioma growth
+* [Surgical aid visualization system for glioblastoma tumor identification based on deep learning and in-vivo hyperspectral images of human patients](https://doi.org/10.1117/12.2512569) - Himar Fabelo, Martin Halicek, Samuel Ortega, Adam Szolna, Jesus Morera, Roberto Sarmiento, Gustavo M. Callico, Baowei Fei (2019)
 
 #### Breast
 * [AFAgarap/wisconsin-breast-cancer](https://github.com/AFAgarap/wisconsin-breast-cancer) - Codebase for *On Breast Cancer Detection: An Application of Machine Learning Algorithms on the Wisconsin Diagnostic Dataset [ICMLSC 2018 / arXiv 1711.07831]*
@@ -171,6 +173,7 @@ Open access: all rights granted for use and re-use of any kind, by anyone, at no
 ##### Hyperspectral imaging
 * [Deep convolutional neural networks for classifying head and neck cancer using hyperspectral imaging](https://doi.org/10.1117/1.JBO.22.6.060503) - Martin Halicek, Guolan Lu, James V. Little, Xu Wang, Mihir Patel, Christopher C. Griffith, Mark W. El-Deiry, Amy Y. Chen, Baowei Fei (2017)
 * [In-Vivo and Ex-Vivo Tissue Analysis through Hyperspectral Imaging Techniques: Revealing the Invisible Features of Cancer](https://doi.org/10.3390/cancers11060756) - Martin Halicek, Himar Fabelo, Samuel Ortega, Gustavo M. Callico, Baowei Fei (2019)
+* [Surgical aid visualization system for glioblastoma tumor identification based on deep learning and in-vivo hyperspectral images of human patients](https://doi.org/10.1117/12.2512569) - Himar Fabelo, Martin Halicek, Samuel Ortega, Adam Szolna, Jesus Morera, Roberto Sarmiento, Gustavo M. Callico, Baowei Fei (2019)
 
 #### Brain
 * [Deep Probabilistic Modeling of Glioma Growth](https://arxiv.org/abs/1907.04064v1) - [[Code](https://github.com/jenspetersen/probabilistic-unet)] - Jens Petersen, Paul F. Jäger, Fabian Isensee, Simon A. A. Kohl, Ulf Neuberger, Wolfgang Wick, Jürgen Debus, Sabine Heiland, Martin Bendszus, Philipp Kickingereder, Klaus H. Maier-Hein (2019)
@@ -299,6 +302,9 @@ Open access: all rights granted for use and re-use of any kind, by anyone, at no
 
 ##### Prostate
 * [Adversarial optimization for joint registration and segmentation in prostate CT radiotherapy](https://arxiv.org/abs/1906.12223) - Mohamed S. Elmahdy, Jelmer M. Wolterink, Hessam Sokooti, Ivana Išgum, Marius Staring (2019)
+
+#### Surgery
+* [Surgical aid visualization system for glioblastoma tumor identification based on deep learning and in-vivo hyperspectral images of human patients](https://doi.org/10.1117/12.2512569) - Himar Fabelo, Martin Halicek, Samuel Ortega, Adam Szolna, Jesus Morera, Roberto Sarmiento, Gustavo M. Callico, Baowei Fei (2019)
 
 ## Presentations
 * [Deep Learning with Big Health Data for Early Cancer Detection and Prevention](http://chapter.aapm.org/orv/meetings/fall2017/5-Deep%20Learning%20with%20Big%20Health%20Data%20for%20Early%20Cancer%20Detection%20and%20Prevention.pdf) - Jun Deng, Yale (2017)
