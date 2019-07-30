@@ -234,6 +234,7 @@ Open access: all rights granted for use and re-use of any kind, by anyone, at no
 * [Improving Prostate Cancer Detection with Breast Histopathology Images](https://arxiv.org/abs/1903.05769) - Umair Akhtar Hasan Khan, Carolin Stürenberg, Oguzhan Gencoglu, Kevin Sandeman, Timo Heikkinen, Antti Rannikko, Tuomas Mirtti (2019)
 
 #### Stomach
+* [Detecting gastric cancer from video images using convolutional neural networks](https://doi.org/10.1111/den.13306) - Mitsuaki Ishioka, Toshiaki Hirasawa, Tomohiro Tada (2018)
 * [Accurate Gastric Cancer Segmentation in Digital Pathology Images Using Deformable Convolution and Multi-Scale Embedding Networks](https://ieeexplore.ieee.org/document/8721664) - Muyi Sun, Guanhong Zhang, Hao Dang, Xingqun Qi, Xiaoguang Zhou, Qing Chang (2019)
 
 ### Prognostics
