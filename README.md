@@ -23,6 +23,7 @@ Open access: all rights granted for use and re-use of any kind, by anyone, at no
 * [Papers](#papers)
   + [Meta reviews](#meta-reviews)
   + [Detection and diagnosis](#detection-and-diagnosis)
+    - [Techniques](#techniques)
     - [Brain](#brain-1)
     - [Breast](#breast-2)
     - [Cervical](#cervical)
@@ -164,6 +165,9 @@ Open access: all rights granted for use and re-use of any kind, by anyone, at no
 * [A Probabilistic U-Net for Segmentation of Ambiguous Images](http://papers.nips.cc/paper/7928-a-probabilistic-u-net-for-segmentation-of-ambiguous-images) - [[Code 1](https://github.com/SimonKohl/probabilistic_unet) | [Code2](https://github.com/stefanknegt/Probabilistic-Unet-Pytorch) | [Video](https://youtu.be/-cfFxQWfFrA)] - Simon A. A. Kohl, Bernardino Romera-Paredes, Clemens Meyer, Jeffrey De Fauw, Joseph R. Ledsam, Klaus H. Maier-Hein, S. M. Ali Eslami, Danilo Jimenez Rezende, Olaf Ronneberger (2018)
 * [A Hierarchical Probabilistic U-Net for Modeling Multi-Scale Ambiguities](https://arxiv.org/pdf/1905.13077.pdf) - Simon A. A. Kohl, Bernardino Romera-Paredes, Klaus H. Maier-Hein, Danilo Jimenez Rezende, S. M. Ali Eslami, Pushmeet Kohli, Andrew Zisserman, Olaf Ronneberger (2019)
 * [nnU-Net: Breaking the Spell on Successful Medical Image Segmentation](https://arxiv.org/abs/1904.08128) - [[Code](https://github.com/MIC-DKFZ/nnunet)] - Fabian Isensee, Jens Petersen, Simon A. A. Kohl, Paul F. Jäger, Klaus H. Maier-Hein (2019)
+
+#### Techniques
+* [In-Vivo and Ex-Vivo Tissue Analysis through Hyperspectral Imaging Techniques: Revealing the Invisible Features of Cancer](https://doi.org/10.3390/cancers11060756) - Martin Halicek, Himar Fabelo, Samuel Ortega, Gustavo M. Callico, Baowei Fei (2019)
 
 #### Brain
 * [Deep Probabilistic Modeling of Glioma Growth](https://arxiv.org/abs/1907.04064v1) - [[Code](https://github.com/jenspetersen/probabilistic-unet)] - Jens Petersen, Paul F. Jäger, Fabian Isensee, Simon A. A. Kohl, Ulf Neuberger, Wolfgang Wick, Jürgen Debus, Sabine Heiland, Martin Bendszus, Philipp Kickingereder, Klaus H. Maier-Hein (2019)
