@@ -24,6 +24,7 @@ Open access: all rights granted for use and re-use of any kind, by anyone, at no
   + [Meta reviews](#meta-reviews)
   + [Detection and diagnosis](#detection-and-diagnosis)
     - [Techniques](#techniques)
+      - [Hyperspectral imaging](#hyperspectral-imaging)
     - [Brain](#brain-1)
     - [Breast](#breast-2)
     - [Cervical](#cervical)
@@ -167,6 +168,8 @@ Open access: all rights granted for use and re-use of any kind, by anyone, at no
 * [nnU-Net: Breaking the Spell on Successful Medical Image Segmentation](https://arxiv.org/abs/1904.08128) - [[Code](https://github.com/MIC-DKFZ/nnunet)] - Fabian Isensee, Jens Petersen, Simon A. A. Kohl, Paul F. Jäger, Klaus H. Maier-Hein (2019)
 
 #### Techniques
+##### Hyperspectral imaging
+* [Deep convolutional neural networks for classifying head and neck cancer using hyperspectral imaging](https://doi.org/10.1117/1.JBO.22.6.060503) - Martin Halicek, Guolan Lu, James V. Little, Xu Wang, Mihir Patel, Christopher C. Griffith, Mark W. El-Deiry, Amy Y. Chen, Baowei Fei (2017)
 * [In-Vivo and Ex-Vivo Tissue Analysis through Hyperspectral Imaging Techniques: Revealing the Invisible Features of Cancer](https://doi.org/10.3390/cancers11060756) - Martin Halicek, Himar Fabelo, Samuel Ortega, Gustavo M. Callico, Baowei Fei (2019)
 
 #### Brain
