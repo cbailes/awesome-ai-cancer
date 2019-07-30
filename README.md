@@ -238,6 +238,7 @@ Open access: all rights granted for use and re-use of any kind, by anyone, at no
 * [Improving Prostate Cancer Detection with Breast Histopathology Images](https://arxiv.org/abs/1903.05769) - Umair Akhtar Hasan Khan, Carolin Stürenberg, Oguzhan Gencoglu, Kevin Sandeman, Timo Heikkinen, Antti Rannikko, Tuomas Mirtti (2019)
 
 #### Stomach
+* [Deep convolutional neural networks for automatic classification of gastric carcinoma using whole slide images in digital histopathology](https://www.ncbi.nlm.nih.gov/pubmed/28676295) - Harshita Sharma, Norman Zerbe, Iris Klempert, Olaf Hellwich, Peter Hufnag (2017)
 * [Detecting gastric cancer from video images using convolutional neural networks](https://doi.org/10.1111/den.13306) - Mitsuaki Ishioka, Toshiaki Hirasawa, Tomohiro Tada (2018)
 * [Whole Slide Image Classification of Gastric Cancer using Convolutional Neural Networks](https://www.semanticscholar.org/paper/Whole-Slide-Image-Classification-of-Gastric-Cancer-Shou-Li/426b6516a0b4c959b9380fd8d5b9bf1942778f02) - Junni Shou, Yan Li, Guanzhen Yu, Guannan Li (2018)
 * [Accurate Gastric Cancer Segmentation in Digital Pathology Images Using Deformable Convolution and Multi-Scale Embedding Networks](https://ieeexplore.ieee.org/document/8721664) - Muyi Sun, Guanhong Zhang, Hao Dang, Xingqun Qi, Xiaoguang Zhou, Qing Chang (2019)
