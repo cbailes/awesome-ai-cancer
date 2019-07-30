@@ -149,6 +149,7 @@ Open access: all rights granted for use and re-use of any kind, by anyone, at no
 * [Arvaniti prostate cancer TMA dataset](https://doi.org/10.7910/DVN/OCYCMP) - [[Paper](https://www.nature.com/articles/s41598-018-30535-1)] - H&E stained images from five prostate cancer Tissue Microarrays (TMAs) and corresponding Gleason annotation masks
 
 ## Papers 
+* [Applications of Machine Learning in Cancer Prediction and Prognosis](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2675494/) - Joseph A. Cruz, David S. Wishart (2006)
 * [Architectures and accuracy of artificial neural network for disease classification from omics data](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6399893/) - Hui Yu, David C. Samuels, Ying-yong Zhao, Yan Guo (2019)
 * [Artificial intelligence in cancer imaging: Clinical challenges and applications](https://onlinelibrary.wiley.com/doi/full/10.3322/caac.21552) - Wenya Linda Bi, Ahmed Hosny, Matthew B. Schabath, Maryellen L. Giger, Nicolai J. Birkbak, Alireza Mehrtash, Tavis Allison, Omar Arnaout, Christopher Abbosh, Ian F. Dunn, Raymond H. Mak, Rulla M. Tamimi, Clare M. Tempany, Charles Swanton, Udo Hoffmann, Lawrence H. Schwartz, Robert J. Gillies, Raymond Y. Huang, Hugo J. W. L. Aerts (2019)
 
