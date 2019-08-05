@@ -113,7 +113,7 @@ Open access: all rights granted for use and re-use of any kind, by anyone, at no
 
 #### Oral
 * [smg478/OralCancerDetectionOnCTImages](https://github.com/smg478/OralCancerDetectionOnCTImages) - [[Paper](https://arxiv.org/abs/1611.09769)] - C++ implementation of oral cancer detection on CT images with a neural network classifier
-* [naveen3124/Oral-Cancer-Deep-Learning-](https://github.com/naveen3124/Oral-Cancer-Deep-Learning-) - CNN on oral cancer holistic images
+* [naveen3124/Oral-Cancer-Deep-Learning-](https://github.com/naveen3124/Oral-Cancer-Deep-Learning-) - CNN on oral cancer using holistic images
 
 #### Prostate
 * [bikramb98/Prostate-cancer-prediction](https://github.com/bikramb98/Prostate-cancer-prediction) - A simple prostate cancer prediction model built using KNN on a small dataset
