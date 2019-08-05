@@ -210,6 +210,7 @@ Open access: all rights granted for use and re-use of any kind, by anyone, at no
 * [A Joint Deep Learning Approach for Automated Liver and Tumor Segmentation](https://arxiv.org/abs/1902.07971) - Nadja Gruber, Stephan Antholzer, Werner Jaschke, Christian Kremser, Markus Haltmeier (2019)
 
 #### Lung
+* [Combining deep learning and coherent anti-Stokes Raman scattering imaging for automated differential diagnosis of lung cancer](https://www.researchgate.net/publication/320723321_Combining_deep_learning_and_coherent_anti-Stokes_Raman_scattering_imaging_for_automated_differential_diagnosis_of_lung_cancer) - Sheng Weng, Xiaoyun Xu, Jiasong Li, Stephen TC Wong (2017)
 * [Deep reinforcement learning for automated radiation adaptation in lung cancer](https://doi.org/10.1002/mp.12625) - Huan‐Hsin Tseng, Yi Luo, Sunan Cui, Jen‐Tzung Chien, Randall K. Ten Haken, Issam El Naqa (2017)
 * [Lung Nodule Detection via Deep Reinforcement Learning](https://www.frontiersin.org/articles/10.3389/fonc.2018.00108/full) - Issa Ali, Gregory R. Hart, Gowthaman Gunabushanam, Ying Liang, Wazir Muhammad, Bradley Nartowt, Michael Kane, Xiaomei Ma, Jun Deng (2018)
 * [Convolutional Neural Networks Promising in Lung Cancer T-Parameter Assessment on Baseline FDG-PET/CT](https://doi.org/10.1155/2018/1382309) - Margarita Kirienko, Martina Sollini, Giorgia Silvestri, Serena Mognetti, Emanuele Voulaz, Lidija Antunovic, Alexia Rossi, Luca Antiga, Arturo Chiti (2018)
