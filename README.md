@@ -133,9 +133,11 @@ Open access: all rights granted for use and re-use of any kind, by anyone, at no
 ### Datasets
 * [The Cancer Genome Atlas Program](https://www.cancer.gov/about-nci/organization/ccg/research/structural-genomics/tcga) - Over 2.5 petabytes of genomic, epigenomic, transcriptomic, and proteomic data at Cancer.gov
 * [Cancer Data Access System](https://biometry.nci.nih.gov/cdas/) @ National Cancer Institute
-* [Clinical, Genomic, Imaging Data & Specimens](https://cbttc.org/research/specimendata/) @ Children’s Brain Tumor Tissue Consortium
 * [Genomics of Drug Sensitivity in Cancer](https://www.cancerrxgene.org) - 1000 human cancer cell lines characterized and screened with 100s of compounds
 * [HarmonizomePythonScripts](https://github.com/MaayanLab/HarmonizomePythonScripts) - A collection of 116 datasets, 41 resources, and scripts that include many worthwhile in cancer research
+
+#### Brain
+* [Clinical, Genomic, Imaging Data & Specimens](https://cbttc.org/research/specimendata/) @ Children’s Brain Tumor Tissue Consortium
 
 #### Breast
 * [BACH dataset](https://iciar2018-challenge.grand-challenge.org/Dataset/) - Hematoxylin and eosin (H&E) stained breast histology microscopy and whole-slide images from the ICIAR 2018 Grand Challenge on BreAst Cancer Histology
