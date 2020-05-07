@@ -4,7 +4,7 @@ List of awesome code, papers, and resources for AI/deep learning/machine learnin
 
 Open access: all rights granted for use and re-use of any kind, by anyone, at no cost, under your choice of either the free MIT License or Creative Commons CC-BY International Public License.
 
-© 2019 Craig Bailes ([@cbailes](https://github.com/cbailes) | [contact@craigbailes.com](mailto:contact@craigbailes.com))
+© 2020 Craig Bailes ([@cbailes](https://github.com/cbailes) | [contact@craigbailes.com](mailto:contact@craigbailes.com))
 
 ## Index
 * [Code](#code)
@@ -26,6 +26,7 @@ Open access: all rights granted for use and re-use of any kind, by anyone, at no
   + [Detection and diagnosis](#detection-and-diagnosis)
     - [Techniques](#techniques)
       - [Hyperspectral imaging](#hyperspectral-imaging)
+      - [Proton radiography](#proton-radiography)
     - [Brain](#brain-2)
     - [Breast](#breast-2)
     - [Cervical](#cervical)
@@ -38,6 +39,7 @@ Open access: all rights granted for use and re-use of any kind, by anyone, at no
     - [Ovarian](#ovarian)
     - [Pancreatic](#pancreatic-1)
     - [Prostate](#prostate-2)
+    - [Skin](#skin)
     - [Stomach](#stomach)
   + [Prognostics](#prognostics)
     - [Breast](#breast-3)
@@ -163,6 +165,7 @@ Open access: all rights granted for use and re-use of any kind, by anyone, at no
 
 ### Meta reviews
 * [Artificial Intelligence in Pathology](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6344799/) - Hye Yoon Chang, Chan Kwon Jung, Junwoo Isaac Woo, Sanghun Lee, Joonyoung Cho, Sun Woo Kim, Tae-Yeong Kwak (2018)
+* [Deep Learning in Medical Imaging](https://doi.org/10.14245/ns.1938396.198) - Mingyu Kim, Jihye Yun, Yongwon Cho, Keewon Shin, Ryoungwoo Jang, Hyun-jin Bae, and Namkug Kim (2019)
 
 ### Detection and diagnosis
 * [Deep learning for tumor classification in imaging mass spectrometry](https://academic.oup.com/bioinformatics/article/34/7/1215/4604594) - Jens Behrmann, Christian Etmann, Tobias Boskamp, Rita Casadonte, Jörg Kriegsmann,  Peter Maaβ (2018)
@@ -181,6 +184,9 @@ Open access: all rights granted for use and re-use of any kind, by anyone, at no
 * [In-Vivo and Ex-Vivo Tissue Analysis through Hyperspectral Imaging Techniques: Revealing the Invisible Features of Cancer](https://doi.org/10.3390/cancers11060756) - Martin Halicek, Himar Fabelo, Samuel Ortega, Gustavo M. Callico, Baowei Fei (2019)
 * [Surgical aid visualization system for glioblastoma tumor identification based on deep learning and in-vivo hyperspectral images of human patients](https://doi.org/10.1117/12.2512569) - Himar Fabelo, Martin Halicek, Samuel Ortega, Adam Szolna, Jesus Morera, Roberto Sarmiento, Gustavo M. Callico, Baowei Fei (2019)
 
+##### Proton radiography
+* [High quality proton portal imaging using deep learning for proton radiation therapy: a phantom study](https://doi.org/10.1088/2057-1976/ab8a74) - Serdar Charyyev, Yang Lei, Joseph Harms, Bree Eaton, Mark McDonald, Walter J. Curran, Tian Liu, Jun Zhou, Rongxiao Zhang, Xiaofeng Yang (2020)
+
 #### Brain
 * [Deep Probabilistic Modeling of Glioma Growth](https://arxiv.org/abs/1907.04064v1) - [[Code](https://github.com/jenspetersen/probabilistic-unet)] - Jens Petersen, Paul F. Jäger, Fabian Isensee, Simon A. A. Kohl, Ulf Neuberger, Wolfgang Wick, Jürgen Debus, Sabine Heiland, Martin Bendszus, Philipp Kickingereder, Klaus H. Maier-Hein (2019)
 
@@ -188,6 +194,8 @@ Open access: all rights granted for use and re-use of any kind, by anyone, at no
 * [A new features extraction method based on polynomial regression for the assessment of breast lesion Contours](https://www.researchgate.net/publication/282954526_A_new_features_extraction_method_based_on_polynomial_regression_for_the_assessment_of_breast_lesion_Contours) - Spandana Paramkusham, Shivakshit Patri, K.M.M. Rao, B.V.V.S.N.P. Rao (2015)
 * [Diagnostic Assessment of Deep Learning Algorithms for Detection of Lymph Node Metastases in Women With Breast Cancer](https://jamanetwork.com/journals/jama/article-abstract/2665774) - Babak Ehteshami Bejnordi, Mitko Veta, Paul Johannes van Diest (2017)
 * [Machine Learning with Applications in Breast Cancer Diagnosis and Prognosis](https://www.researchgate.net/publication/325064884_Machine_Learning_with_Applications_in_Breast_Cancer_Diagnosis_and_Prognosis) - Wenbin Yue, Zidong Wang, Hongwei Chen, Annette Margaret Payne, Xiaohui Liu (2018)
+* [Learning a low dimensional manifold of real cancer tissue with PathologyGAN](https://arxiv.org/abs/2004.06517) - Adalberto Claudio Quiros, Roderick Murray-Smith, Ke Yuan (2020)
+* [RDA-UNET-WGAN: An Accurate Breast Ultrasound Lesion Segmentation Using Wasserstein Generative Adversarial Networks](https://doi.org/10.1007/s13369-020-04480-z) - Anuja Negi, Alex Noel Joseph Raj, Ruban Nersisson, Zhemin Zhuang, M. Murugappan (2020)
 
 #### Cervical
 * [Intelligent Inverse Treatment Planning via Deep Reinforcement Learning, a Proof-of-Principle Study in High Dose-rate Brachytherapy for Cervical Cancer](https://arxiv.org/pdf/1811.10102.pdf) - Chenyang Shen, Yesenia Gonzalez, Peter Klages, Nan Qin, Hyunuk Jung, Liyuan Chen, Dan Nguyen, Steve B. Jiang, Xun Jia (2019)
@@ -211,6 +219,7 @@ Open access: all rights granted for use and re-use of any kind, by anyone, at no
 * [Dynamic contrast-enhanced computed tomography diagnosis of primary liver cancers using transfer learning of pretrained convolutional neural networks: Is registration of multiphasic images necessary?](https://www.researchgate.net/publication/332855380_Dynamic_contrast-enhanced_computed_tomography_diagnosis_of_primary_liver_cancers_using_transfer_learning_of_pretrained_convolutional_neural_networks_Is_registration_of_multiphasic_images_necessary) - Akira Yamada, Kazuki Oyama, Sachie Fujita, Eriko Yoshizawa, Fumihito Ichinohe, Daisuke Komatsu, Yasunari Fujinaga (2019)
 * [A probabilistic approach for interpretable deep learning in liver cancer diagnosis](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/10950/109500U/A-probabilistic-approach-for-interpretable-deep-learning-in-liver-cancer/10.1117/12.2512473.short) - Clinton J. Wang, Charlie A. Hamm, Brian S. Letzen, James S. Duncan (2019)
 * [A Joint Deep Learning Approach for Automated Liver and Tumor Segmentation](https://arxiv.org/abs/1902.07971) - Nadja Gruber, Stephan Antholzer, Werner Jaschke, Christian Kremser, Markus Haltmeier (2019)
+* [Tripartite-GAN: Synthesizing Liver Contrast-Enhanced MRI to Improve Tumor Detection](https://www.researchgate.net/publication/340853012_Tripartite-GAN_Synthesizing_Liver_Contrast-Enhanced_MRI_to_Improve_Tumor_Detection) - Jianfeng Zhao, Dengwang Li, Zahra Kassam, Joanne Howey, Jaron Chong, Bo Chen, Shuo Li (2020)
 
 #### Lung
 * [Combining deep learning and coherent anti-Stokes Raman scattering imaging for automated differential diagnosis of lung cancer](https://www.researchgate.net/publication/320723321_Combining_deep_learning_and_coherent_anti-Stokes_Raman_scattering_imaging_for_automated_differential_diagnosis_of_lung_cancer) - Sheng Weng, Xiaoyun Xu, Jiasong Li, Stephen TC Wong (2017)
@@ -219,6 +228,7 @@ Open access: all rights granted for use and re-use of any kind, by anyone, at no
 * [Convolutional Neural Networks Promising in Lung Cancer T-Parameter Assessment on Baseline FDG-PET/CT](https://doi.org/10.1155/2018/1382309) - Margarita Kirienko, Martina Sollini, Giorgia Silvestri, Serena Mognetti, Emanuele Voulaz, Lidija Antunovic, Alexia Rossi, Luca Antiga, Arturo Chiti (2018)
 * [Deep reinforcement learning with its application for lung cancer detection in medical Internet of Things](https://www.sciencedirect.com/science/article/pii/S0167739X19303772) - Zhuo Liua, Chenhui Yaob, Hang Yuc, Taihua Wua (2019)
 * [Automated Pulmonary Nodule Classification in Computed Tomography Images Using a Deep Convolutional Neural Network Trained by Generative Adversarial Networks](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6334309/) - Yuya Onishi, Atsushi Teramoto, Masakazu Tsujimoto, Tetsuya Tsukamoto, Kuniaki Saito, Hiroshi Toyama, Kazuyoshi Imaizumi, Hiroshi Fujita (2019)
+* [Unsupervised Multi-Discriminator Generative Adversarial Network for Lung Nodule Malignancy Classification](https://doi.org/10.1109/ACCESS.2020.2987961) - Yan Kuang, Tian Lan, Xueqiao Peng, Gati Elvis Selashi, Qiao Liu, Junyi Zhang (2020)
 
 #### Mesothelioma
 * [Development and validation of a deep learning model using biomarkers in pleural effusion for prediction of malignant pleural mesothelioma](https://doi.org/10.1093/annonc/mdy301.003) - S. Ikegaki, Y. Kataoka, T. Otoshi, T. Takemura, M. Shimada (2018)
@@ -253,6 +263,10 @@ Open access: all rights granted for use and re-use of any kind, by anyone, at no
 * [Computational histological staining and destaining of prostate core biopsy RGB images with generative adversarial neural networks](https://www.media.mit.edu/publications/computational-histological-staining-and-destaining-of-prostate-core-biopsy-rgb-images-with-generative-adversarial-neural-networks/) - Aman Rana, Gregory Yauney, Alarice Lowe, Pratik Shah (2018)
 * [Comparison of Artificial Intelligence Techniques to Evaluate Performance of a Classifier for Automatic Grading of Prostate Cancer From Digitized Histopathologic Images](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2727273) - Guy Nir, Davood Karimi, S. Larry Goldenberg, Ladan Fazli, Brian F. Skinnider, Peyman Tavassoli, Dmitry Turbin, Carlos F. Villamil, Gang Wang, Darby J. S. Thompson, Peter C. Black, Septimiu E. Salcudean (2019)
 * [Improving Prostate Cancer Detection with Breast Histopathology Images](https://arxiv.org/abs/1903.05769) - Umair Akhtar Hasan Khan, Carolin Stürenberg, Oguzhan Gencoglu, Kevin Sandeman, Timo Heikkinen, Antti Rannikko, Tuomas Mirtti (2019)
+* [Improving Prostate Cancer (PCa) Classification Performance by Using Three-Player Minimax Game to Reduce Data Source Heterogeneity](https://doi.org/10.0.4.85/TMI.2020.2988198) - Yanan Shao, Jane Wang, Brian Wodlinger, Septimiu E. Salcudean (2020)
+
+#### Skin
+* [Generating Synthetic Medical Images by Using GAN to Improve CNN Performance in Skin Cancer Classification](https://doi.org/10.1109/ICRoM48714.2019.9071823) - Pooyan Sedigh, Rasoul Sadeghian, Mehdi Tale Masouleh (2019)
 
 #### Stomach
 * [Deep convolutional neural networks for automatic classification of gastric carcinoma using whole slide images in digital histopathology](https://www.ncbi.nlm.nih.gov/pubmed/28676295) - Harshita Sharma, Norman Zerbe, Iris Klempert, Olaf Hellwich, Peter Hufnag (2017)
