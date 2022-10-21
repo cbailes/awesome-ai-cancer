@@ -4,7 +4,7 @@ List of awesome code, papers, and resources for AI/deep learning/machine learnin
 
 Open access: all rights granted for use and re-use of any kind, by anyone, at no cost, under your choice of either the free MIT License or Creative Commons CC-BY International Public License.
 
-© 2020 Craig Bailes ([@cbailes](https://github.com/cbailes) | [contact@craigbailes.com](mailto:contact@craigbailes.com))
+© 2022 Craig Bailes ([@cbailes](https://github.com/cbailes) | [contact@craigbailes.com](mailto:contact@craigbailes.com))
 
 ## Index
 * [Code](#code)
@@ -252,7 +252,14 @@ Open access: all rights granted for use and re-use of any kind, by anyone, at no
 * [Deep learning based Nucleus Classification in pancreas histological images](https://ieeexplore.ieee.org/abstract/document/8036914) - Young Hwan Chang, Guillaume Thibault, Owen Madin, Vahid Azimi, Cole Meyers, Brett Johnson (2017)
 * [Deep Supervision for Pancreatic Cyst Segmentation in Abdominal CT Scans](https://link.springer.com/chapter/10.1007/978-3-319-66179-7_26) - Yuyin Zhou, Lingxi Xie, Elliot K. Fishman, Alan L. Yuille (2017)
 * [Deep LOGISMOS: Deep learning graph-based 3D segmentation of pancreatic tumors on CT scans](https://ieeexplore.ieee.org/abstract/document/8363793/) - Zhihui Guo, Ling Zhang, Le Lu, Mohammadhadi Bagheri, Ronald M. Summers, Milan Sonka, Jianhua Yao (2018)
+* [Development of a prediction model for pancreatic cancer in patients with type 2 diabetes using logistic regression and artificial neural network models](https://doi.org/10.2147/CMAR.S180791) - Meng Hsuen Hsieh, Li-Min Sun, Cheng-Li Lin, Meng-Ju Hsieh, Chung-Y Hsu, Chia-Hung Kao (2018)
 * [Deep learning convolutional neural network (CNN) With Gaussian mixture model for predicting pancreatic cancer](https://link.springer.com/article/10.1007%2Fs11042-019-7419-5) - Kaushik Sekaran, P. Chandana, N. Murali Krishna, Seifedine Kadry (2019)
+* [Personalized Pancreatic Cancer Management](https://doi.org/10.1097/MPA.0000000000001312) - Alison Bradley, Robert van der Meer, Colin McKay (2019)
+* [Establishment and application of an artificial intelligence diagnosis system for pancreatic cancer with a faster region-based convolutional neural network](https://mednexus.org/doi/full/10.1097/CM9.0000000000000544) - Shang-Long Liu, Shuo Li, Yu-Ting Guo, Yun-Peng Zhou, Zheng-Dong Zhang, Shuai Li, Yun Lu (2019)
+* [Response to repeat echoendoscopic celiac plexus neurolysis in pancreatic cancer patients: A machine learning approach](https://doi.org/10.1016/j.pan.2019.07.038) - Antonio Facciorusso, Valentina Del Prete, Matteo Antonino, Vincenzo Rosario, Buccino Nicola, Muscatiello (2019)
+* [Construction of a convolutional neural network classifier developed by computed tomography images for pancreatic cancer diagnosis](https://doi.org/10.3748/wjg.v26.i34.5156) - Han Ma, Zhong-Xin Liu, Jing-Jing Zhang, Feng-Tian Wu, Cheng-Fu Xu, Zhe Shen, Chao-Hui Yu, You-Ming Li (2019)
+* [Pancreatic cancer tumor analysis in CT images using patch-based multi-resolution convolutional neural network](https://doi.org/10.1016/j.bspc.2021.102652) - Vahid Asadpour, Rex A.Parker, Patrick R. Mayock, Samuel E.Sampson, Wansu Chen, Bechien Wu (2021)
+* [Detection of pancreatic cancer by convolutional-neural-network-assisted spontaneous Raman spectroscopy with critical feature visualization](https://doi.org/10.1016/j.neunet.2021.09.006) - Zhongqiang Li, Zheng Li, Qing Chen, Alexandra Ramos, Jian Zhang, J. Philip Boudreaux, Ramcharan Thiagarajan, Yvette Bren-Mattison, Michael E.Dunham, Andrew J. McWhorter. Xin Li. Ji-Ming Feng. Yanping Li, Shaomian Yao, Jian Xu (2021)
 
 #### Prostate
 * [A Bayesian Hierarchical Model for Prediction of Latent Health States from Multiple Data Sources with Application to Active Surveillance of Prostate Cancer](https://arxiv.org/abs/1508.07511) - [[Code](https://github.com/rycoley/prediction-prostate-surveillance)] - R. Yates Coley, Aaron J. Fisher, Mufaddal Mamawala, H. Ballentine Carter, Kenneth J. Pienta, Scott L. Zeger (2016)
@@ -293,6 +300,9 @@ Open access: all rights granted for use and re-use of any kind, by anyone, at no
 
 #### Pancreatic
 * [An Improved Method for Prediction of Cancer Prognosis by Network Learning](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6210393/) - Minseon Kim, Ilhwan Oh, Jaegyoon Ahn (2018)
+* [Development, Validation and Comparison of Artificial Neural Network Models and Logistic Regression Models Predicting Survival of Unresectable Pancreatic Cancer](https://doi.org/10.3389/fbioe.2020.00196) - Zhou Tong, Yu Liu, Hongtao Ma, Jindi Zhang, Bo Lin, Xuanwen Bao, Xiaoting Xu, Changhao Gu, Yi Zheng, Lulu Liu, Weijia Fang, Shuiguang Deng, Peng Zhao (2020)
+* [Pancreatic Cancer Survival Prediction: A Survey of the State-of-the-Art](https://doi.org/10.1155/2021/1188414) - Wilson Bakasa, Serestina Viriri, Huiling Chen (2021)
+
 
 #### Prostate
 * [Prognosis of prostate cancer by artificial neural networks](https://www.sciencedirect.com/science/article/pii/S095741741000237X) - Ismail Saritas, Ilker Ali Ozkan, Ibrahim Unal Sert (2010)
