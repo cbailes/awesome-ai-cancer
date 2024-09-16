@@ -70,6 +70,7 @@ Open access: all rights granted for use and re-use of any kind, by anyone, at no
 * [Multimodal Brain Tumor Segmentation Challenge](https://www.med.upenn.edu/sbia/brats2018.html) - UPenn (2018)
 * [Pancreatic Cancer Survival Prediction](http://miccai.cloudapp.net/competitions/84) - MICCAI (2018)
 * [Screening and Diagnosis of esophageal cancer from in-vivo microscopy images](https://challengedata.ens.fr/challenges/11) - Mauna Kea Technologies (2019-2020)
+* [Safe Scan](https://github.com/safe-scan-ai/cancer-ai) - Machine learning model competitions (Skin cancer) (2024)
 
 ### Repositories
 * [zizhaozhang/nmi-wsi-diagnosis](https://github.com/zizhaozhang/nmi-wsi-diagnosis) - Pathologist-level interpretable whole-slide cancer diagnosis with deep learning
