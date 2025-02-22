@@ -115,6 +115,8 @@ Open access: all rights granted for use and re-use of any kind, by anyone, at no
 * [AiAiHealthcare/ProjectAiAi](https://github.com/AiAiHealthcare/ProjectAiAi) - A project with the slated goal of building an FDA-approved, open source deep learning system for detecting lung cancer
 
 #### Oral
+* [MarcoParola/oral2](https://github.com/marcoParola/oral2) - [[Paper](https://www.sciencedirect.com/science/article/pii/S0895611124001101)] - Informed-Deep-Learning and Case-based Reasoning system for photographic oral cancer screening
+* [MarcoParola/detection_framework](https://github.com/MarcoParola/detection_framework) - [[Paper](https://ieeexplore.ieee.org/abstract/document/10371865?casa_token=3i2nfZm5dLkAAAAA:99zrJi9pJsz99kydUEIcev36lLICmQwvqf-xPN4ygOwg7VPHVgn_ZyEPNnGrxKevDq5lt05vFA)] - Object detection for oral cancer
 * [smg478/OralCancerDetectionOnCTImages](https://github.com/smg478/OralCancerDetectionOnCTImages) - [[Paper](https://arxiv.org/abs/1611.09769)] - C++ implementation of oral cancer detection on CT images with a neural network classifier
 * [naveen3124/Oral-Cancer-Deep-Learning-](https://github.com/naveen3124/Oral-Cancer-Deep-Learning-) - CNN on oral cancer using holistic images
 
